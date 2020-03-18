@@ -32,34 +32,38 @@ Recording Link
 [ ] Updates: what has been completed and can be checked off
 [ ] Discussion: ideas, feedback, concerns, plans
 [ ] Action Plan: where to go next, dependencies, all deadlines
-[ ] Deliverables: within the next [timeframe]
+[ ] Deliverables: within the next (timeframe)
 
 Meeting Plan:
 ## Updates:
 *What has been completed and can be checked off*
+
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
 ## Deliverables:
-*Within the next [timeframe]*
+*Within the next (timeframe)*
+
+Name  | Deadline | Notes
+------|----------|--------
+Example 1 | Feb 30th | Explanation
+Example 2 | Feb 31st | Explanation
 
 
-
-## OTHER MEETING TEMPALTES:
-Department Meeting Template (Once every two weeks)  - 50 minutes
-DevRel everyone meetings every 2 weeks
+## OTHER MEETING TEMPLATES:
+*Department Meeting Template (Once every two weeks)  - 50 minutes*
 Lead: Director
 Attendees: 
 
-Team Meeting Template (Once every week) - 50 minutes
+*Team Meeting Template (Once every week) - 50 minutes*
 Lead: Manager
 Attendees:
 
-One on One Template (Once every week) 
+*One on One Template (Weekly 15min meeting)*
 Lead: Manager
 Attendees: 
 
-Work Sessions
+*Work Sessions (TBD)*
 Lead: Manager
 Attendees: 
