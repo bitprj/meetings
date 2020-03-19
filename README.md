@@ -1,2 +1,2 @@
-# people
-Meetings and onboarding for Bit Project
+# Meetings
+Meetings for Bit Project
