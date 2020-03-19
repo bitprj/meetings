@@ -47,10 +47,10 @@ Recording Link
 ## Deliverables:
 *Within the next (timeframe)*
 
-Name  | Deadline | Notes
-------|----------|--------
-Example 1 | Feb 30th | Explanation
-Example 2 | Feb 31st | Explanation
+Name  | Assigned To | Deadline | Notes
+------|-------------|----------|------
+Example 1 | @studentusername2 | Feb 30th | Explanation
+Example 2 | @studentusername5| Feb 31st | Explanation
 
 
 ## OTHER MEETING TEMPLATES:
