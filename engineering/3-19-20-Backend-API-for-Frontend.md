@@ -1,6 +1,6 @@
 # Engineering Sync
 **Lead**
-Meeting Lead Name : Daniel kim @lazyplatypus
+Meeting Lead Name : Daniel Kim @lazyplatypus
 
 **Attendees**
 * Bryan Wong (@wongband) 
