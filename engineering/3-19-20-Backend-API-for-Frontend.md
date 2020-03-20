@@ -10,8 +10,8 @@ Meeting Lead Name : Daniel Kim @lazyplatypus
 
 ## Agenda
 **During Meeting**
-- [] Start recording
-- [] Announce:
+- [x] Start recording
+- [x] Announce:
 “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
 - [x] Assign notetaker
 - [x] Take attendance
