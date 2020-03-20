@@ -67,7 +67,7 @@ Recording Link
 * Discuss which "areas" to include in our road-map from the above guide
   * "Area" = more general topic like Relational Databases, Web Sockets, etc.
   * We need to then set up modules in each area
-* Preliminary idea of what to cover: 
+* Preliminary idea of what to cover in the road-map: 
   * Topic: Internet
     * HTTP, Browsers, DNS, Domain Name, Hosting, How Internet Works
   * Topic: Python
@@ -111,7 +111,7 @@ Recording Link
       * Word Translation Calculator
       * Basic Calculator
       * Tic-Tac-Toe
-  * **Note that for this example, Intro to Python is a topic and there can (and should) be multiple topics for a module. The above example was just for one module of Python.**
+  * **Note that for this example, Intro to Python is a topic and there can (and should) be multiple topics for a module. The above example was just for one module of Python: Intermediate Python.**
   * Module breakdowns will be placed on our Wiki and represented on our road-map!
 * Modules should also be in **Lucidchart**
 
