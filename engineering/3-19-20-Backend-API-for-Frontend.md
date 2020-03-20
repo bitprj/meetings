@@ -15,7 +15,7 @@ Meeting Lead Name : Daniel Kim @lazyplatypus
 “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
 - [x] Assign notetaker
 - [x] Take attendance
-- Document Issues on Github and make milestones for groups of issues
+- [x] Document Issues on Github and make milestones for groups of issues
 
 **Start Meeting**
 * Updates: what has been completed and can be checked off
