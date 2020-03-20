@@ -6,6 +6,7 @@ Meeting Lead Name : Bryan Wong (@wongband)
 * Kevin Vuong (@kavuong) 
 
 ### Recording Link
+https://youtu.be/zomVr8VyJbc
 
 ## Agenda
 **During Meeting**
