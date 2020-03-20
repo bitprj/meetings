@@ -24,15 +24,15 @@ Recording Link
 
 **3 days before the meeting**
 
-- [ ] Create Zoom link for the meeting
-- [ ] Create Google Calendar Invite for all attendees
+- [x] Create Zoom link for the meeting
+- [x] Create Google Calendar Invite for all attendees
 - [ ] Ask everyone to put their items that they've been working on the past two weeks in markdown file
-- [ ] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
+- [x] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
 
 **1 day before the meeting**
 
-- [ ] Send reminders to Slack channel tagging appropriate folks. 
-- [ ] Ask for last minute agenda items
+- [x] Send reminders to Slack channel tagging appropriate folks. 
+- [x] Ask for last minute agenda items
 
 **During Meeting**
 
@@ -131,7 +131,10 @@ Recording Link
 | All modules on *NoSQL*                   |             | 3/23/20 (Mon)  | Modules on MongoDB and benefits of NoSQL vs SQL (reference MongoDB Workshop) |
 | All modules on *APIs*                    |             | 3/23/20 (Mon)  | REST, JSON APIs                                              |
 | Finalize above modules' Lucidchart       | Kevin       | 3/24/20 (Tues) |                                                              |
+
+
 Note that these modules are "less essential" but ultimately should be covered:
+
 | Name                                                 | Assigned To | Deadline | Notes                                                        |
 | ---------------------------------------------------- | ----------- | -------- | ------------------------------------------------------------ |
 | All modules on *relational databases*                |             |          | Database theory should be included - please DM me for slides from my ECS 165A class (in HK but slides are very detailed)<br />Also practical applications of PostgreSQL |
