@@ -26,7 +26,7 @@ Recording Link
 
 - [x] Create Zoom link for the meeting
 - [x] Create Google Calendar Invite for all attendees
-- [ ] Ask everyone to put their items that they've been working on the past two weeks in markdown file
+- [x] Ask everyone to put their items that they've been working on the past two weeks in markdown file
 - [x] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
 
 **1 day before the meeting**

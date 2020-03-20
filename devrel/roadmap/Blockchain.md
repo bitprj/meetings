@@ -64,13 +64,13 @@ Recording Link
 * John Long will discuss his preliminary roadmap
 * Discussion and feedback on John's roadmap
 * How to move forward
-  * Can other members of BoD contribute to this?
+  * Can other members of BaD contribute to this?
 
 ## Action Plan:
 
 *Where to go next, dependencies, all deadlines*
 
-* John (and BoD if applicable) should work on fleshing out the road-map 
+* John (and BaD if applicable) should work on fleshing out the road-map 
   * For each module, there should be learning objectives and (preliminary) activity and lab names
 * Example of what **one module's** breakdown should look like:
   * Module: Intermediate Python
@@ -97,4 +97,4 @@ Recording Link
 
 | Name               | Assigned To                                | Deadline | Notes                                                        |
 | ------------------ | ------------------------------------------ | -------- | ------------------------------------------------------------ |
-| Blockchain Roadmap | John Long (or BoD members - to be decided) | TBA      | With learning objectives, activities and labs for each module |
+| Blockchain Roadmap | John Long (or BaD members - to be decided) | TBA      | With learning objectives, activities and labs for each module |

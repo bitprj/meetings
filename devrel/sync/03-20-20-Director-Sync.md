@@ -41,56 +41,28 @@ Daniel Kim (President)
 
 *What has been completed and can be checked off*
 
-* Reminder on why road map is necessary
-  * Plan to on-board other schools
-* Outlining expectations
-  * We are planning *modules* 
-    * A module covers a specific subject in curriculum
-    * Each module should be finished in a week
-
 ## Discussion points:
 
 *Ideas, feedback, concerns, plans*
-
-* Share Lucidchart with everyone
-* Each module in road-map needs to have set of learning objectives and a (preliminary) list of activities and labs
-* Discuss which "areas" to include in our road-map from the above guide
-  * "Area" = more general topic like Relational Databases, Web Sockets, etc.
-  * We need to then set up modules in each area
-* John Long will discuss his preliminary roadmap
-* Discussion and feedback on John's roadmap
-* How to move forward
-  * Can other members of BoD contribute to this?
 
 ## Action Plan:
 
 *Where to go next, dependencies, all deadlines*
 
-* John (and BoD if applicable) should work on fleshing out the road-map 
-  * For each module, there should be learning objectives and (preliminary) activity and lab names
-* Example of what **one module's** breakdown should look like:
-  * Module: Intermediate Python
-    * Learning Objectives
-      * Students will continue applying their fundamental Python skills learned from the previous module.
-      * Students will begin learning about how to integrate basic data structures like lists and dictionaries to add complexity to their Python code.
-      * Students will learn how they can use for/while loops and if statements to control the flow of their code.
-      * Students will learn how to represent strings in Python using F-strings.
-    * Activities
-      * Bookkeeper
-      * Creating a Menu
-      * Message Cipher
-    * Labs
-      * Word Translation Calculator
-      * Basic Calculator
-      * Tic-Tac-Toe
-  * **Note that for this example, Intro to Python is a topic and there can (and should) be multiple topics for a module. The above example was just for one module of Python: Intermediate Python.**
-  * Module breakdowns will be placed on our Wiki and represented on our road-map!
-* Modules should also be in **Lucidchart**
+* "Bible for Reviewers" written out in GitBooks
+* Bible Made Into Checklist that is in an Issue Template
+* Documentation of QA Procedure on GitBooks 
+* Documenting Procedure for Roadmap (as a GitHub issue and solving PR, etc) on about.bitproject.org
 
 ## Deliverables:
 
 *Within the next (timeframe)*
 
-| Name               | Assigned To                                | Deadline | Notes                                                        |
-| ------------------ | ------------------------------------------ | -------- | ------------------------------------------------------------ |
-| Blockchain Roadmap | John Long (or BoD members - to be decided) | TBA      | With learning objectives, activities and labs for each module |
+Deadlines TBA after work session on Fri, 3/20
+
+| Name                                                         | Assigned To | Deadline | Notes |
+| ------------------------------------------------------------ | ----------- | -------- | ----- |
+| "Bible for Reviewers" written out in GitBooks                | Kevin       | TBA      |       |
+| Bible Made Into Checklist that is in an Issue Template       | Kevin       | TBA      |       |
+| Documentation of QA Procedure on GitBooks                    | Kevin       | TBA      |       |
+| Documenting Procedure for Roadmap (as a GitHub issue and solving PR, etc) on about.bitproject.org | Kevin       | TBA      |       |
