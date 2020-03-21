@@ -39,11 +39,12 @@ Kevin Vuong (Head of Developer Relations)
 * Going through Core Team onboarding - clarifying any questions
 * Determine where checklists should go
 * Discuss other deliverables in 3/20 meeting
-* Discuss building a how-to document for onboarding (?)
+* Discuss creating a step-by-step how-to document for onboarding (?)
 * Meeting with reviewers:
   - Updating FAQ's
   - Discussing reviewer training expectations
   - Discussing communication/culture issues from past quarter
+  - Having reviewer record part of training webinar
 
 ## Action Plan:
 
