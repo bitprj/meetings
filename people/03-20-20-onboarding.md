@@ -31,10 +31,27 @@ Recording Link
 
 **Start Meeting**
 * Updates: what has been completed and can be checked off
+    - Minh Tu made the onboading checklist
+    - Becca made the People and Marketing checklist 
 * Discussion: ideas, feedback, concerns, plans
+    - Should the recruiting process be the same to remote school and Davis students?
+    - Daniel needs to figure out MDX deck 
+    - We want to figure out the process ASAP because there is one school waiting
+    - Figure out intro tasks for new developers 
+    - school workshop proposal: List of key concepts covered, Interactive component / game, Outline for slides within Proposal
+    - Why would people from other schools only with people from remote people and not students from Davis? 
+    Shreya thinks it causes inclusion and Daniel agrees. Make some remote people reviewers based on their skills rather than just make all Davis members reviewers. 
+    - Find internal feedback software 
 * Action Plan: where to go next, dependencies, all deadlines
+    - Make an airtable for mentor and mentee 
+    - New members will do a workshop instead of creating a whole curriculum 
+    - Talk to reviewers if they think people changing teams is okay with them
+    - By tonight figure out what each team does/ mission/ why are remote now/ team breakdown. Put this all on the slides 
+    -  We need to communicate better on what we need 
 * Deliverables: within the next (timeframe)
-
+    -  Shreya document GitBook how Github in relations in the People team. Onboarding. Convert checklist to GitHub
+    -  Minh Tu works on documenting how Hubspot works and school proposals 
+    -  Becca works on communication webinar 
 ## Updates:
 *What has been completed and can be checked off*
 * Onboarding for devrel core, marketing, and people teams
@@ -44,8 +61,7 @@ Recording Link
 * DevRel Core Onboarding:
   - First 1:1: need to discuss workflow, team plan, ethics
 * Reviewer Guideline
-  - Members moving teams needs to be documented (
-  - 
+  - Members moving teams needs to be documented 
 * Workshops
 
 ## Action Plan:
