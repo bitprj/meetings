@@ -6,7 +6,7 @@ Meeting Lead Name : Bryan Wong (@wongband)
 * Jason Livinghouse (@JasonL24) 
 
 ### Recording Link
-
+https://youtu.be/Y1oPi-2LAIs
 
 ## Agenda
 **During Meeting**
