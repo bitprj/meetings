@@ -10,6 +10,7 @@ Kevin Vuong (Head of Developer Relations)
 * *Jeff Chhen (Developer Relations Manager)*
 * *Michelle Hu (Developer Relations Manager)*
 * *Hsin-Yu Chen (University of Arizona)* 
+  * Co-President of Wics
 
 *Italics* just indicate who should be assigned a front-end road-map role. 
 
@@ -60,6 +61,7 @@ Recording Link
 * Start on road-map
   * Using this as a guide https://roadmap.sh/backend
 * Each module in road-map needs to have set of learning objectives and a (preliminary) list of activities and labs
+  * There should be multiple modules per topic
 * Discuss which "areas" to include in our road-map from the above guide
   * "Area" = more general topic like Relational Databases, Web Sockets, etc.
   * We need to then set up modules in each area
@@ -86,7 +88,8 @@ Recording Link
     * Reactstrap
     * Material UI
   * Topic: Testing apps
-  * Topic: Progressive Web Apps
+  * Topic: Progressive Web Apps 
+    * Could not find a concrete definition
   * Topic: GraphQL
   * Topic: Static Site Generators
     * Gatsby.js
