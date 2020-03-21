@@ -30,10 +30,14 @@ Recording Link
 - [x] Take attendance
 
 **Start Meeting**
-* Updates: what has been completed and can be checked off
+
+## Updates:
+*What has been completed and can be checked off*
     - Minh Tu made the onboading checklist
-    - Becca made the People and Marketing checklist 
-* Discussion: ideas, feedback, concerns, plans
+    - Becca made the People and Marketing checklist
+    
+## Discussion points:
+*Ideas, feedback, concerns, plans*
     - Should the recruiting process be the same to remote school and Davis students?
     - Daniel needs to figure out MDX deck 
     - We want to figure out the process ASAP because there is one school waiting
@@ -42,40 +46,28 @@ Recording Link
     - Why would people from other schools only with people from remote people and not students from Davis? 
     Shreya thinks it causes inclusion and Daniel agrees. Make some remote people reviewers based on their skills rather than just make all Davis members reviewers. 
     - Find internal feedback software 
-* Action Plan: where to go next, dependencies, all deadlines
+    
+## Action Plan:
+*Where to go next, dependencies, all deadlines*
     - Make an airtable for mentor and mentee 
     - New members will do a workshop instead of creating a whole curriculum 
     - Talk to reviewers if they think people changing teams is okay with them
     - By tonight figure out what each team does/ mission/ why are remote now/ team breakdown. Put this all on the slides 
     -  We need to communicate better on what we need 
-* Deliverables: within the next (timeframe)
+    
+## Deliverables:
+*Within the next (timeframe)*
     -  Shreya document GitBook how Github in relations in the People team. Onboarding. Convert checklist to GitHub
     -  Minh Tu works on documenting how Hubspot works and school proposals 
     -  Becca works on communication webinar 
-## Updates:
-*What has been completed and can be checked off*
-* Onboarding for devrel core, marketing, and people teams
 
-## Discussion points:
-*Ideas, feedback, concerns, plans*
-* DevRel Core Onboarding:
-  - First 1:1: need to discuss workflow, team plan, ethics
-* Reviewer Guideline
-  - Members moving teams needs to be documented 
-* Workshops
 
-## Action Plan:
-*Where to go next, dependencies, all deadlines*
-* Set up meeting with reviewers to document guideline
-
-## Deliverables:
-*Within the next (timeframe)*
 
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
- Communication slides and documentation in GitBooks           | Rebecca Tran   | Mar 23 (Town Hall) | Explanation
- School Onboarding Documentation                              | Minh-Tu Nguyen | Mar 23 (Town Hall) | Explanation
+ Communication slides and documentation in GitBooks           | Rebecca Tran   | Mar 23 (Town Hall) | 
+ School Onboarding Documentation                              | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
  Marketing Team Documentation                                 | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
  School Onboarding Proposal                                   | Kevin Vuong | Mar 23 (Town Hall) | 
  Documenting Core Team Onboarding Process in GitBooks         | Shreya Gupta | Mar 23 (Town Hall) | 
@@ -85,21 +77,3 @@ Name  | Assigned To | Deadline | Notes
  DevRel Town Hall Slides (how remote has impacted work)       | Kevin Vuong | Mar 23 (Town Hall) | 
  Set up call with Rebecca and Shreya - discussing onboarding docs and communication | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
  Set up call with Minh-Tu - discussing marketing and school onboarding | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
-
-
-## OTHER MEETING TEMPLATES:
-*Department Meeting Template (Once every two weeks)  - 50 minutes*  
-Lead: Director  
-Attendees: 
-
-*Team Meeting Template (Once every week) - 50 minutes*  
-Lead: Manager  
-Attendees:
-
-*One on One Template (Weekly 15min meeting)*  
-Lead: Manager  
-Attendees: 
-
-*Work Sessions (TBD)*  
-Lead: Manager  
-Attendees: 
