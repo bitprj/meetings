@@ -11,12 +11,12 @@ Kevin Vuong (Head of Developer Relations)
 
 **Before the meeting**
 
-- [ ] Create Zoom link for the meeting
-- [ ] Create Google Calendar Invite for all attendees
-- [ ] Ask everyone to put their items that they've been working on the past two weeks in markdown file
-- [ ] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
+- [x] Create Zoom link for the meeting
+- [x] Create Google Calendar Invite for all attendees
+- [x] Ask everyone to put their items that they've been working on the past two weeks in markdown file
+- [x] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
 
-- [ ] Ask for last minute agenda items
+- [x] Ask for last minute agenda items
 
 **Start Meeting**
 
@@ -38,6 +38,7 @@ Kevin Vuong (Head of Developer Relations)
 
 * Going through Core Team onboarding - clarifying any questions
 * Determine where checklists should go
+* Discuss other deliverables in 3/20 meeting
 
 ## Action Plan:
 
@@ -53,3 +54,4 @@ Kevin Vuong (Head of Developer Relations)
 | ------------------------------------------------ | ------------ | ---------------- | ----------- |
 | Documenting all of DevRel Onboarding             | Shreya Gupta | 3/23 (Town Hall) | Explanation |
 | Setting up Dev and Reviewer Checklists on GitHub | Shreya Gupta | 3/23 (Town Hall) | Explanation |
+| Other Deliverables in 3/20 Onboarding Meeting    | Shreya Gupta | 3/23 (Town Hall) |             |

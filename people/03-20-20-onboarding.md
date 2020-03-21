@@ -80,8 +80,26 @@ Name  | Assigned To | Deadline | Notes
  School Onboarding Proposal                                   | Kevin Vuong | Mar 23 (Town Hall) | 
  Documenting Core Team Onboarding Process in GitBooks         | Shreya Gupta | Mar 23 (Town Hall) | 
  Onboarding Town Hall Slides                                  | Shreya Gupta | Mar 23 (Town Hall) | 
- Communication Town Hall Slides                               | Shreya Gupta | Mar 23 (Town Hall) | 
+ Communication Town Hall Slides                               | Rebecca Tran   | Mar 23 (Town Hall) | 
  Marketing Town Hall Slides                                   | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
  DevRel Town Hall Slides (how remote has impacted work)       | Kevin Vuong | Mar 23 (Town Hall) | 
  Set up call with Rebecca and Shreya - discussing onboarding docs and communication | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
  Set up call with Minh-Tu - discussing marketing and school onboarding | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
+
+
+## OTHER MEETING TEMPLATES:
+*Department Meeting Template (Once every two weeks)  - 50 minutes*  
+Lead: Director  
+Attendees: 
+
+*Team Meeting Template (Once every week) - 50 minutes*  
+Lead: Manager  
+Attendees:
+
+*One on One Template (Weekly 15min meeting)*  
+Lead: Manager  
+Attendees: 
+
+*Work Sessions (TBD)*  
+Lead: Manager  
+Attendees: 
