@@ -76,4 +76,5 @@ Name  | Assigned To | Deadline | Notes
  Marketing Town Hall Slides                                   | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
  DevRel Town Hall Slides (how remote has impacted work)       | Kevin Vuong | Mar 23 (Town Hall) | 
  Set up call with Rebecca and Shreya - discussing onboarding docs and communication | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
- Set up call with Minh-Tu - discussing marketing and school onboarding | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
+ Set up call with Minh-Tu - discussing marketing and school onboarding | Kevin Vuong | Mar 22 (Sun) | Call on 3/22
+ Figure out MDX Deck | Daniel Kim | | 
