@@ -143,7 +143,7 @@ Recording Link
 | All modules on *Intro to Python*                           | Kevin       | 3/23/20 (Mon)  | This module just needs learning objectives, activities and labs are done |
 | All modules on *Flask + SQL/SQLAlchemy*                    | Jason       | 3/23/20 (Mon)  |                                                              |
 | All modules on *Node.js + Express.js + NoSQL/MongoDB*      | Ismail      | 3/23/20 (Mon)  | we have already made some Node/Express/MongoDB activities on Airtable, also MongoDB Workshop should be helpful |
-| All modules on *API Concepts + Testing with Postman*       | Sarah       | 3/23/20 (Mon)  |                                                              |
+| All modules on *API Concepts + Testing with Postman*       | Sarah       | 3/23/20 (Mon)  | Please utilize the Postman activities as inspiration!        |
 | Finalize above modules' Lucidchart                         | Kevin       | 3/24/20 (Tues) |                                                              |
 
 
