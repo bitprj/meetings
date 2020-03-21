@@ -58,8 +58,15 @@ Recording Link
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
-Example 2 | @studentusername5| Feb 31st | Explanation
+ Communication slides and documentation in GitBooks     | Rebecca Tran   | Mar 23 (Town Hall) | Explanation
+ School Onboarding Documentation                        | Minh-Tu Nguyen | Mar 23 (Town Hall) | Explanation
+ Marketing Team Documentation                           | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
+ School Onboarding Proposal                             | Kevin Vuong | Mar 23 (Town Hall) | 
+ Documenting Core Team Onboarding Process in GitBooks   | Shreya Gupta | Mar 23 (Town Hall) | 
+ Onboarding Town Hall Slides                            | Shreya Gupta | Mar 23 (Town Hall) | 
+ Communication Town Hall Slides                         | Shreya Gupta | Mar 23 (Town Hall) | 
+ Marketing Town Hall Slides                             | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
+ DevRel Town Hall Slides (how remote has impacted work) | Kevin Vuong | Mar 23 (Town Hall) | 
 
 
 ## OTHER MEETING TEMPLATES:
