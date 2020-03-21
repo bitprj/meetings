@@ -57,8 +57,10 @@ Kevin Vuong (Head of Developer Relations)
 
 *Within the next (timeframe)*
 
-| Name                                             | Assigned To  | Deadline         | Notes       |
-| ------------------------------------------------ | ------------ | ---------------- | ----------- |
-| Documenting all of DevRel Onboarding             | Shreya Gupta | 3/23 (Town Hall) | Explanation |
-| Setting up Dev and Reviewer Checklists on GitHub | Shreya Gupta | 3/23 (Town Hall) | Explanation |
-| Other Deliverables in 3/20 Onboarding Meeting    | Shreya Gupta | 3/23 (Town Hall) |             |
+| Name                                                         | Assigned To  | Deadline         | Notes       |
+| ------------------------------------------------------------ | ------------ | ---------------- | ----------- |
+| Documenting all of DevRel Onboarding + Setting up Dev and Manager Checklists on GitHub (people repository) | Shreya Gupta | 3/23 (Town Hall) | Explanation |
+| Pull Req Procedure and Template on GitBooks documented       | Shreya Gupta | 3/23 (Town Hall) | Explanation |
+| Other Deliverables in 3/20 Onboarding Meeting                | Shreya Gupta | 3/23 (Town Hall) |             |
+| Department Page Framework                                    | Shreya Gupta | 3/23 (Town Hall) |             |
+| Set up meeting with reviewers (Sarah Gerard, Jason Livinghouse, Michelle Hu, Owen Gao, Mohammad Ismail Daud) | Shreya Gupta | 3/23 (Town Hall) |             |
