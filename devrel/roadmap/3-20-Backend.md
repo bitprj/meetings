@@ -157,3 +157,13 @@ Note that these modules are "less essential" but ultimately should be covered:
 | All modules on *Containerization and Virtualization* |             |          | Docker                                                       |
 | All modules on *web sockets/web servers*             |             |          |                                                              |
 | All modules on *deployment*                          |             |          |                                                              |
+
+## Meeting Notes:
+* Roadmap used to organize our objectives for newcomers.
+* Circles in roadmaps (modules) are the main ideas and prerequisites for the topics branching off from them.
+* Modules have learning objectives (analogous to syllabus), set of activities and labs w/ descriptions. Found at https://about.bitproject.org/teams/developer-relations/development-roadmap
+* Today's purpose is to start the roadmap, and other schools will eventually build on it.
+* We edit Lucidchart roadmap once our modules are approved.
+* Issues will be assigned to us after the meeting.
+* Issues are held in the bitprj/bitproject repo.
+* We then discussed which modules we want to include.
