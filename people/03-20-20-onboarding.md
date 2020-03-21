@@ -1,4 +1,4 @@
-# Bit Project Town Hall Template
+# Onboarding Discussion
 **Lead**
 Shreya Gupta (People Team) 
 
