@@ -70,10 +70,13 @@ Recording Link
 * Preliminary idea of what to cover in the road-map: 
   * Topic: Internet
     * HTTP, Browsers, DNS, Domain Name, Hosting, How Internet Works
-  * Topic: Python
   * Topic: Version Control
     * GitHub
+    * Markdown
+  * Topic: Intro to Python 
+  * Topic: Node.js
   * Topic: Relational Databases
+    * ORMs (Express.js and SQLAlchemy)
     * Database Theory
     * PostgreSQL
   * Topic: Authentication
@@ -81,13 +84,23 @@ Recording Link
   * Topic: NoSQL
     * MongoDB
   * Topic: *APIs*
-    * REST (w/ Postman!)
-    * JSON
+    * Concept of APIs
+      * CRUD Operations
+      * HTTP Methods
+      * Using a Simple API (Weather)
+      * REST (w/ Postman!) and JSON (pick either one)
+    * Using APIs w/ Postman 
+    * Setting up an API
+      * Flask + SQLAlchemy
+      * Node.js + Express.js + MongoDB
+    * Communication between Front-End and Back-End (lab idea?)
   * Topic: *Web Security*
     * HTTPS, CORS, SSL, OWASP, Content Security Policy, Hashing Algos
+    * Sanitizing Input
   * Topic: Containerization and Virtualization
     * Intro to Docker
   * Topic: Web Sockets/Web Servers
+  * Topic: Deployment
 * Outline expectations for each module on road-map from each manager
   * Learning objectives, activity names, lab names, all in GitBooks
 
@@ -124,14 +137,14 @@ Recording Link
 - Note that labs can technically have same content but different premises
 - Activities and labs should have a one-sentence description
 
-| Name                                     | Assigned To | Deadline       | Notes                                                        |
-| ---------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |
-| All modules on *Version Control Systems* |             | 3/23/20 (Mon)  | we already have a "Programming Practices" module made on Airtable - all of the GitHub content should be included here) |
-| All modules on *Intro to Python*         | Kevin       | 3/23/20 (Mon)  | This module just needs learning objectives, activities and labs are done |
-| All modules on *Intro to JS*             |             | 3/23/20 (Mon)  | we have already made some JS activities on Airtable          |
-| All modules on *NoSQL*                   |             | 3/23/20 (Mon)  | Modules on MongoDB and benefits of NoSQL vs SQL (reference MongoDB Workshop) |
-| All modules on *APIs*                    |             | 3/23/20 (Mon)  | REST, JSON APIs                                              |
-| Finalize above modules' Lucidchart       | Kevin       | 3/24/20 (Tues) |                                                              |
+| Name                                                       | Assigned To | Deadline       | Notes                                                        |
+| ---------------------------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |
+| All modules on *Version Control Systems + Basic Front-end* | Owen        | 3/23/20 (Mon)  | we already have a "Programming Practices" module made on Airtable - all of the GitHub content should be included here); also HTML/CSS/JS activities are on Airtable for inspiration |
+| All modules on *Intro to Python*                           | Kevin       | 3/23/20 (Mon)  | This module just needs learning objectives, activities and labs are done |
+| All modules on *Flask + SQL/SQLAlchemy*                    | Jason       | 3/23/20 (Mon)  |                                                              |
+| All modules on *Node.js + Express.js + NoSQL/MongoDB*      | Ismail      | 3/23/20 (Mon)  | we have already made some Node/Express/MongoDB activities on Airtable, also MongoDB Workshop should be helpful |
+| All modules on *API Concepts + Testing with Postman*       | Sarah       | 3/23/20 (Mon)  |                                                              |
+| Finalize above modules' Lucidchart                         | Kevin       | 3/24/20 (Tues) |                                                              |
 
 
 Note that these modules are "less essential" but ultimately should be covered:
@@ -143,3 +156,4 @@ Note that these modules are "less essential" but ultimately should be covered:
 | All modules on *web security*                        |             |          | HTTPS, CORS, SSL, OWASP, Content Security Policy, Hashing Algos |
 | All modules on *Containerization and Virtualization* |             |          | Docker                                                       |
 | All modules on *web sockets/web servers*             |             |          |                                                              |
+| All modules on *deployment*                          |             |          |                                                              |
