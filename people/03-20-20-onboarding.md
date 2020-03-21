@@ -58,15 +58,17 @@ Recording Link
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
- Communication slides and documentation in GitBooks     | Rebecca Tran   | Mar 23 (Town Hall) | Explanation
- School Onboarding Documentation                        | Minh-Tu Nguyen | Mar 23 (Town Hall) | Explanation
- Marketing Team Documentation                           | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
- School Onboarding Proposal                             | Kevin Vuong | Mar 23 (Town Hall) | 
- Documenting Core Team Onboarding Process in GitBooks   | Shreya Gupta | Mar 23 (Town Hall) | 
- Onboarding Town Hall Slides                            | Shreya Gupta | Mar 23 (Town Hall) | 
- Communication Town Hall Slides                         | Shreya Gupta | Mar 23 (Town Hall) | 
- Marketing Town Hall Slides                             | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
- DevRel Town Hall Slides (how remote has impacted work) | Kevin Vuong | Mar 23 (Town Hall) | 
+ Communication slides and documentation in GitBooks           | Rebecca Tran   | Mar 23 (Town Hall) | Explanation
+ School Onboarding Documentation                              | Minh-Tu Nguyen | Mar 23 (Town Hall) | Explanation
+ Marketing Team Documentation                                 | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
+ School Onboarding Proposal                                   | Kevin Vuong | Mar 23 (Town Hall) | 
+ Documenting Core Team Onboarding Process in GitBooks         | Shreya Gupta | Mar 23 (Town Hall) | 
+ Onboarding Town Hall Slides                                  | Shreya Gupta | Mar 23 (Town Hall) | 
+ Communication Town Hall Slides                               | Shreya Gupta | Mar 23 (Town Hall) | 
+ Marketing Town Hall Slides                                   | Minh-Tu Nguyen | Mar 23 (Town Hall) | 
+ DevRel Town Hall Slides (how remote has impacted work)       | Kevin Vuong | Mar 23 (Town Hall) | 
+ Set up call with Rebecca and Shreya - discussing onboarding docs and communication | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
+ Set up call with Minh-Tu - discussing marketing and school onboarding | Kevin Vuong | Mar 22 (Sun) | Call on 3/22 
 
 
 ## OTHER MEETING TEMPLATES:
