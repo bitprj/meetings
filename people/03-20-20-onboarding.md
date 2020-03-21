@@ -43,10 +43,14 @@ Recording Link
 *Ideas, feedback, concerns, plans*
 * DevRel Core Onboarding:
   - First 1:1: need to discuss workflow, team plan, ethics
+* Reviewer Guideline
+  - Members moving teams needs to be documented (
   - 
+* Workshops
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
+* Set up meeting with reviewers to document guideline
 
 ## Deliverables:
 *Within the next (timeframe)*
