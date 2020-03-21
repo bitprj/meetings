@@ -32,40 +32,22 @@ Recording Link
 - [ ] Take attendance
 
 **Start Meeting**
-* Updates: what has been completed and can be checked off
-* Discussion: ideas, feedback, concerns, plans
-* Action Plan: where to go next, dependencies, all deadlines
-* Deliverables: within the next (timeframe)
 
 ## Updates:
 *What has been completed and can be checked off*
+* Update1
 
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
+* Discussion1
+
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
+* Plan1
+
 ## Deliverables:
 *Within the next (timeframe)*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
 Example 1 | @studentusername2 | Feb 30th | Explanation
-Example 2 | @studentusername5| Feb 31st | Explanation
-
-
-## OTHER MEETING TEMPLATES:
-*Department Meeting Template (Once every two weeks)  - 50 minutes*  
-Lead: Director  
-Attendees: 
-
-*Team Meeting Template (Once every week) - 50 minutes*  
-Lead: Manager  
-Attendees:
-
-*One on One Template (Weekly 15min meeting)*  
-Lead: Manager  
-Attendees: 
-
-*Work Sessions (TBD)*  
-Lead: Manager  
-Attendees: 
