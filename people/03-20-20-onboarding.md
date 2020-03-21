@@ -44,7 +44,7 @@ Recording Link
 * Figure out intro tasks for new developers 
 * school workshop proposal: List of key concepts covered, Interactive component / game, Outline for slides within Proposal
 * Why would people from other schools only with people from remote people and not students from Davis? 
-    Shreya thinks it causes inclusion and Daniel agrees. Make some remote people reviewers based on their skills rather than just make all Davis members reviewers. 
+    Shreya thinks it causes inclusion issues and Daniel agrees. Make some remote people reviewers based on their skills rather than just make all Davis members reviewers. 
 * Find internal feedback software 
     
 ## Action Plan:
