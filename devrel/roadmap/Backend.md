@@ -119,9 +119,10 @@ Recording Link
 
 *Within the next three days*
 
-**NOTE:** for all modules, there should be **3-4 learning objectives**, **4-5 sample activity names** and **2-3 sample lab names**
+**NOTE:** for all modules, there should be **3-4 learning objectives**, **4-5 sample activities ** and **2-3 sample labs**
 
 - Note that labs can technically have same content but different premises
+- Activities and labs should have a one-sentence description
 
 | Name                                     | Assigned To | Deadline       | Notes                                                        |
 | ---------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |

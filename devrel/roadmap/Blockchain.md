@@ -95,6 +95,11 @@ Recording Link
 
 *Within the next (timeframe)*
 
+**NOTE:** for all modules, there should be **3-4 learning objectives**, **4-5 sample activities**  and **2-3 sample labs**
+
+- Note that labs can technically have same content but different premises
+- Activities and labs should have a one-sentence description
+
 | Name               | Assigned To                                | Deadline | Notes                                                        |
 | ------------------ | ------------------------------------------ | -------- | ------------------------------------------------------------ |
 | Blockchain Roadmap | John Long (or BaD members - to be decided) | TBA      | With learning objectives, activities and labs for each module |
