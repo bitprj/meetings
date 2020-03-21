@@ -1,4 +1,4 @@
-# Bit Project Town Hall Template
+# Template
 **Lead**
 Meeting Lead Name (@studentusername0) 
 
