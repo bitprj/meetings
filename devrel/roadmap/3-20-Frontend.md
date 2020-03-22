@@ -33,11 +33,11 @@ Recording Link
 
 **During Meeting**
 
-- [ ] Start recording
-- [ ] Announce:
+- [x] Start recording
+- [x] Announce:
   “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
-- [ ] Take attendance
+- [x] Assign notetaker
+- [x] Take attendance
 
 **Start Meeting**
 
@@ -59,8 +59,10 @@ Recording Link
 
 * Share Lucidchart with everyone
 * Start on road-map
+  
   * Using this as a guide https://roadmap.sh/backend
 * Each module in road-map needs to have set of learning objectives and a (preliminary) list of activities and labs
+  
   * There should be multiple modules per topic
 * Discuss which "areas" to include in our road-map from the above guide
   * "Area" = more general topic like Relational Databases, Web Sockets, etc.
@@ -75,6 +77,7 @@ Recording Link
     * Extra JS: Fetch API + AJAX + ES6
   * Topic: Version Control Systems (covered by Backend team)
   * Topic: Package Managers
+    
     * npm, yarn
   * Topic: build tools
     * npm scripts
@@ -89,17 +92,29 @@ Recording Link
     * Material UI
   * Topic: Testing apps
   * Topic: Progressive Web Apps 
+    
     * Could not find a concrete definition
   * Topic: GraphQL
+  * Topic: Progressive Web Apps
+  * Topic: UI/UX
+    
+    * Michelle knows
+  * Topic: APIs
+    * Axios/Fetch (Consuming APIs)
+    * GraphQL
+  * Topic: Data Visualization
+  * Topic: Animations
+
   * Topic: Static Site Generators
-    * Gatsby.js
+
+  * Gatsby.js
     * Next.js
   * Topic: Mobile Apps
     * React Native
   * Topic: Desktop Apps
     * Electron
-* Outline expectations for each module on road-map from each manager
-  * Learning objectives, activity names, lab names, all in GitBooks
+  * Outline expectations for each module on road-map from each manager
+    * Learning objectives, activity names, lab names, all in GitBooks
 
 ## Action Plan:
 
@@ -136,13 +151,12 @@ Recording Link
 
 | Name                                    | Assigned To | Deadline       | Notes                                                        |
 | --------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |
-| All modules on *HTML/CSS Basics*        |             | 3/23/20 (Mon)  | Can use activities from Airtable as a guide                  |
-| All modules on *JavaScript*             |             | 3/23/20 (Mon)  | Can use activities from Airtable as a guide                  |
-| All modules on *Intro to JS*            |             | 3/23/20 (Mon)  | we have already made some JS activities on Airtable          |
-| All modules on *React and Redux*        |             | 3/23/20 (Mon)  | Modules on MongoDB and benefits of NoSQL vs SQL (reference MongoDB Workshop) |
-| All modules on *CSS Frameworks*         |             | 3/23/20 (Mon)  | REST, JSON APIs                                              |
-| All modules on *GraphQL*                |             | 3/23/20 (Mon)  | Consult with Jeff Chhen - he is making a Front-end Engineering Boot camp that covers GraphQL |
-| All modules on *Static Site Generators* |             | 3/23/20 (Mon)  | **GatsbyJS**, Next.js (again consult with Jeff on Gatsby, same note above) |
+| All modules on *HTML/CSS Basics*        | Hsin-Yu     | 3/23/20 (Mon)  | Can use activities from Airtable as a guide                  |
+| All modules on *JavaScript*             | Hsin-Yu     | 3/23/20 (Mon)  | Can use activities from Airtable as a guide                  |
+| All modules on *React and Redux*        | Michelle    | 3/23/20 (Mon)  | Modules on MongoDB and benefits of NoSQL vs SQL (reference MongoDB Workshop) |
+| All modules on *CSS Frameworks*         | Michelle    | 3/23/20 (Mon)  | REST, JSON APIs                                              |
+| All modules on *GraphQL*                | Jeff        | 3/23/20 (Mon)  | Consult with Jeff Chhen - he is making a Front-end Engineering Boot camp that covers GraphQL |
+| All modules on *Static Site Generators* | Jeff        | 3/23/20 (Mon)  | **GatsbyJS**, Next.js (again consult with Jeff on Gatsby, same note above) |
 | Finalize above modules' Lucidchart      | Kevin       | 3/24/20 (Tues) |                                                              |
 
 Note that these modules are "less essential" but ultimately should be covered:

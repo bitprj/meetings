@@ -40,7 +40,7 @@ Kevin Vuong (Head of Developer Relations)
     * #leads Workflow 
     * Hubspot emails
       * Sending emails every week
-      * Ensuring everyone in dev contributes enough emails
+      * Ensuring everyone in other teams contributes enough emails
       * Tracking follow-ups
     * Sales calls - how to set up, what to say
       * What to do after sales call (invite to Slack, transition to onboarding)
