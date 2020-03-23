@@ -3,12 +3,9 @@
 Meeting Lead Name (@studentusername0) 
 
 **Attendees**
-* Student Name (@studentusername1) 
-* Student Name (@studentusername2) 
-* Student Name (@studentusername3) 
-* Student Name (@studentusername4) 
-* Student Name (@studentusername5) 
-* Student Name (@studentusername6) 
+* Student Name 
+* Student Name 
+
 
 Recording Link
 [insert YouTube link to recording after meeting]
@@ -37,7 +34,7 @@ Recording Link
 *What has been completed and can be checked off*
 * Update1
 
-## Discussion points:
+## Discussion Points:
 *Ideas, feedback, concerns, plans*
 * Discussion1
 
