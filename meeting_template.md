@@ -1,6 +1,6 @@
 # Template
 **Lead**
-Meeting Lead Name (@studentusername0) 
+Meeting Lead Name 
 
 **Attendees**
 * Student Name 
