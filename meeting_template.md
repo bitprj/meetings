@@ -1,5 +1,5 @@
 # Template
-## Time:
+## Time: hh:mm am/pm PST
 
 **Lead**
 Meeting Lead Name 
