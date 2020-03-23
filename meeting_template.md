@@ -1,4 +1,4 @@
-# Template
+# Meeting Purpose
 ## Time: hh:mm am/pm PST
 
 **Lead**
