@@ -1,3 +1,8 @@
+Intructions:
+* place notes in appropriate folder /meetings/.../...
+* name notes with date and purpose .../mm-dd-yy_purpose.md
+* don't forget the .md extension
+
 # Meeting Purpose
 ## Time: hh:mm am/pm PST
 
@@ -7,7 +12,6 @@ Meeting Lead Name
 **Attendees**
 * Student Name 
 * Student Name 
-
 
 Recording Link
 [insert YouTube link to recording after meeting]
