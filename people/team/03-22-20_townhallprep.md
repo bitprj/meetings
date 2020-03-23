@@ -60,8 +60,8 @@ Recording Link
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Marketing: strategies to scale | Minh-Tu | 12pm March 22nd | Complete slides before feedback
-Educating the next gen of developers | Kevin Vuong | 12pm March 22nd | Complete slides before feedback
-Culture | Shreya Gupta | 12pm March 22nd | Complete slides before feedback
-Learning & Dev | Shreya Gupta | 12pm March 22nd | Complete slides before feedback
-Open source engineering | Bryan Wong | 12pm March 22nd | Complete slides before feedback
+Marketing: strategies to scale | Minh-Tu | 12pm March 23rd | Complete slides before feedback
+Educating the next gen of developers | Kevin Vuong | 12pm March 23rd | Complete slides before feedback
+Culture | Shreya Gupta | 12pm March 23rd | Complete slides before feedback
+Learning & Dev | Shreya Gupta | 12pm March 23rd | Complete slides before feedback
+Open source engineering | Bryan Wong | 12pm March 23rd | Complete slides before feedback
