@@ -27,6 +27,7 @@ Meeting Lead Name : Bryan Wong (@wongband)
 
 ## Discussion points:
 - How are concepts going to be integrated to labs/activties?
+- Discuss any confusion with Kevin about the READMEs
 
 ## Action Plan:
 
