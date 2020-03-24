@@ -1,6 +1,12 @@
 # Template
 **Leads**
-Daniel Kim, Kevin Vuong, Minh-Tu Nguyen, Rebecca Tran, Bryan Wong, Bryan Zhang, Shreya Gupta (notetaker)
+* Daniel Kim
+* Kevin Vuong
+* Minh-Tu Nguyen
+* Rebecca Tran
+* Shreya Gupta (notetaker)
+* Bryan Wong
+* Bryan Zhang
 
 Recording Link
 [insert YouTube link to recording after meeting]
