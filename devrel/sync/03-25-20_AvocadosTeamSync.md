@@ -42,15 +42,17 @@ Recording Link
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
 * Issues with current state of the Twitter modules
-* 
+* New mini tutorials?
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Issues will be assigned either today or tommorrow.
+* Bit Mentor Program
+* Spring Quarter Deadlines
 
 ## Deliverables:
 *Within the next (timeframe)*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
+TBD | Julia Ma | TBD | TBD
