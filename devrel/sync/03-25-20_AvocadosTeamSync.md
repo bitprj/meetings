@@ -42,13 +42,15 @@ Recording Link
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
 * Issues with current state of the Twitter modules
-* New mini tutorials?
+* New mini tutorials? --> OOP
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
+* Example CODE!!!!
 * Issues will be assigned either today or tommorrow.
 * Bit Mentor Program
 * Spring Quarter Deadlines
+* LMS & Powerpoint & Innovation (during/before BitCamp start)
 
 ## Deliverables:
 *Within the next (timeframe)*
