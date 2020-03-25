@@ -41,8 +41,10 @@ Kevin Vuong
 
 ## Deliverables:
 
-*Within the next (timeframe)*
+*Within the next 2 days*
 
-| Name      | Assigned To       | Deadline | Notes       |
-| --------- | ----------------- | -------- | ----------- |
-| Example 1 | @studentusername2 | Feb 30th | Explanation |
+| Name                                                     | Assigned To          | Deadline | Notes                                                 |
+| -------------------------------------------------------- | -------------------- | -------- | ----------------------------------------------------- |
+| Long-term plans for T1, T2, T3, T1.1, T1.2, T2.1, T2.2   | Mohammad Ismail Daud | Mar 26   | Please reference Sarah's example for a long-term plan |
+| Issues for the coming week for those epics               | Mohammad Ismail Daud | Mar 26   | And issues for beyond this week if time               |
+| Adjust Zenhub Calendar accordingly to the long-term plan | Mohammad Ismail Daud | Mar 26   |                                                       |
