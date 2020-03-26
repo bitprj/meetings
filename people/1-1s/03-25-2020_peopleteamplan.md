@@ -61,8 +61,8 @@ Recording Link
   - Dealing with complex issues
   - Implementing solutions to cultural issues
   - Training of diversity + inclusion
-- >>> Corporate sponsored webinars
-- >>> Position:
+- Corporate sponsored webinars
+- Position:
   - Feedback collection
   - Identify areas of improvement
     - Collect enough data
