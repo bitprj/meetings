@@ -1,5 +1,3 @@
-Intructions:
-
 # Meeting Purpose
 ## Time: 02:00 pm PST
 
@@ -10,7 +8,7 @@ Meeting Lead Mohammad Ismail Daud
 * Student Julia Ma 
 
 Recording Link
-[insert YouTube link to recording after meeting]
+[https://youtu.be/GpbPcpJdAX0]
 
 ## Agenda
 **3 days before the meeting**
