@@ -35,7 +35,8 @@ Recording Link
   - Send out pre-town hall retroly
   - Ensure all team meetings + 1:1s are occurring
 - Diversity + Inclusion - Lily
-  - Complex issues
+  - Dealing with complex issues
+  - Implementing solutions to cultural issues 
   - Training of diversity + inclusion
 - Incentive (?)
 
