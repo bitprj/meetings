@@ -1,5 +1,5 @@
 # People Team Plan
-## Time: hh:mm am/pm PST
+## Time: 11:00 pm PST
 
 **Lead**
 Shreya Gupta + Daniel Kim
@@ -42,15 +42,48 @@ Recording Link
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
-* Discussion1
+* Blockchain at Davis
+- Learning + Development: Becca
+  - Culture based webinars
+    - Communication
+  - Management training
+    - Activities before someone can becomne a manager
+  - How to: feedback
+- Recruitment - Minh-Tu
+  - Onboarding
+- Member Management - Winnie (?)
+  - Managing onboarding repo (all issues are complete, closing all issues)
+    - All issues are closed in a timely manner
+    - Transitioning between teams (onboarding to a new team)
+- Lily
+  - Diversity + Inclusion
+    - Need to conduct joint event with diversity club
+  - Dealing with complex issues
+  - Implementing solutions to cultural issues
+  - Training of diversity + inclusion
+- >>> Corporate sponsored webinars
+- >>> Position:
+  - Feedback collection
+  - Identify areas of improvement
+    - Collect enough data
+    - Leading 10-15min discussion in .md file in weekly people meeting to discuss issues + identify deliverable solutions
+  - Send out pre-town hall retroly
+  - Ensure all team meetings + 1:1s are occurring
+  - Incentives: silly rewards
+- Team meetings: need to let other members talk more
 
+- Schools:
+  - list of schools + send hubspots
+  - contact schools that respond + set up meeting
+  
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Find someone for feedback position
+* Becca: work on how to: feedback
 
 ## Deliverables:
 *Within the next (timeframe)*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
+Create issues for everything above | Shreya Gupta | March 26 | Make sure everyone knows what their responsibilities are
