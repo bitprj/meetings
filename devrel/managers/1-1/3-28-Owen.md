@@ -38,10 +38,11 @@ Kevin Vuong
 *Where to go next, dependencies, all deadlines*
 
 * Completion of GitHub Issue by **Sunday** 
+  * https://github.com/bitprj/curriculum/issues/953
 
 ## Deliverables:
-*Within the next (timeframe)*
+*Within the next week*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
+ Completion of checklist | Owen Gao    | 4/5 (Sunday) | https://github.com/bitprj/curriculum/issues/953 
