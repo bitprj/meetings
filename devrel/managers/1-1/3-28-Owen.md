@@ -20,6 +20,7 @@ Kevin Vuong
 
 * What is the state of every lab?
 * Any questions on roadmap?
+* Organize a lecture time
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
@@ -37,6 +38,8 @@ Kevin Vuong
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
 
+* Concepts, Checkpoints, Formatting by READMEs
+* Gem Amounts next week
 * Completion of GitHub Issue by **Sunday** 
   * https://github.com/bitprj/curriculum/issues/953
 
@@ -46,3 +49,4 @@ Kevin Vuong
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
  Completion of checklist | Owen Gao    | 4/5 (Sunday) | https://github.com/bitprj/curriculum/issues/953 
+
