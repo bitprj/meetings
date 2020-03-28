@@ -11,7 +11,6 @@ Kevin Vuong
 
 **Attendees**
 * Owen Gao
-* Student Name 
 
 ## Agenda
 **Start Meeting**
@@ -20,6 +19,7 @@ Kevin Vuong
 *What has been completed and can be checked off*
 
 * What is the state of every lab?
+* Any questions on roadmap?
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
