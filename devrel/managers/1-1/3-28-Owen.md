@@ -1,0 +1,47 @@
+Intructions:
+* place notes in appropriate folder /meetings/.../...
+* name notes with date and purpose .../mm-dd-yy_purpose.md
+* don't forget the .md extension
+
+# Meeting Purpose
+## Time: 3/28/20 4 pm PST
+
+**Lead**
+Kevin Vuong
+
+**Attendees**
+* Owen Gao
+* Student Name 
+
+## Agenda
+**Start Meeting**
+
+## Updates:
+*What has been completed and can be checked off*
+
+* What is the state of every lab?
+
+## Discussion Points:
+*Ideas, feedback, concerns, plans*
+* Follow the Weekly Manager Checklist for this upcoming week
+  * Update Zenhub Calendar
+  * Update long-term plan
+  * Generate more issues for both this week and next week
+  * Assign Epic Points to each lab
+  * Weekly Review of pull requests with comments
+  * Ensure "first draft" PRs are in by Friday, "final draft" PRs in by Sunday
+  * Provide all "proof" within issue's comments
+* GitHub issue to complete by **Sunday, 4/5**
+* Project Deadline of **April 13th**
+
+## Action Plan:
+*Where to go next, dependencies, all deadlines*
+
+* Completion of GitHub Issue by **Sunday** 
+
+## Deliverables:
+*Within the next (timeframe)*
+
+Name  | Assigned To | Deadline | Notes
+------|-------------|----------|------
+Example 1 | @studentusername2 | Feb 30th | Explanation
