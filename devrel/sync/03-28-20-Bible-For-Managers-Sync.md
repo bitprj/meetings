@@ -23,15 +23,16 @@ Recording Link
 - [x] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
 
 **1 day before the meeting**
+
 - [x] Send reminders to Slack channel tagging appropriate folks. 
 - [x] Ask for last minute agenda items
 
 **During Meeting**
-- [ ] Start recording
-- [ ] Announce:
+- [x] Start recording
+- [x] Announce:
 “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
-- [ ] Take attendance
+- [x] Assign notetaker
+- [x] Take attendance
 
 **Start Meeting**
 
@@ -112,8 +113,17 @@ Recording Link
           * Comments can be positive or constructive
     - [ ] Daniel's Code Review
     - [ ] Daniel will audit a random one of Kevin's code reviews, Kevin will audit a random one of each manager's code reviews
+  
 - [ ] Role of GitHub Projects
+
 - [ ] Role of Writing Team (Victoria Xu right now)
+
+
+
+NOTE: Make checklist more actionable
+
+* Checklists should be in Epics
+* Checklist items should be in every issue and PR
 
 ## Deliverables:
 *Within the next two days*
@@ -122,8 +132,8 @@ Please reference the overall issue: https://github.com/bitprj/bitproject/issues/
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Documentation on receiving module assignments |             | Mon, 3/30 |       
-Documentation on Weekly Manager Checklist & GitHub Projects |             | Mon, 3/30 | 
-Documentation on Weekly Code Review |             | Mon, 3/30 | 
-Documentation on QA for managers (what should managers do every week to assure that devs put out high-quality content) |             | Mon, 3/30 | 
-Documentation on QA from Kevin and Daniel |             | Mon, 3/30 |  
+Documentation on receiving module assignments | Ismail Daud | Mon, 3/30 |       
+Documentation on Weekly Manager Checklist & GitHub Projects | Owen Gao | Mon, 3/30 | sync with Kevin on github projects 
+Documentation on Weekly Code Review | Michelle Hu | Mon, 3/30 | 
+Documentation on QA for managers (what should managers do every week to assure that devs put out high-quality content) | Jason Livinghouse | Mon, 3/30 | 
+Documentation on QA from Kevin and Daniel | Jeff Chhen        | Mon, 3/30 | sync with Kevin (in 1-1 tomorrow) 
