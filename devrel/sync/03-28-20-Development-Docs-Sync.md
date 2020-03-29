@@ -1,4 +1,4 @@
-# Meeting Purpose
+## Development Sync
 
 ## Time: 7 pm PST
 
@@ -16,7 +16,11 @@ Kevin Vuong
 * Daniel Kim (President) (optional)
 
 Recording Link
-[insert YouTube link to recording after meeting]
+https://youtu.be/K2DdVWz-T1E
+
+https://youtu.be/XEykMuE5qno
+
+https://youtu.be/PvSYdQ7g31E
 
 ## Agenda
 

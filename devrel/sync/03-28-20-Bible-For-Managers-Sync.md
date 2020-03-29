@@ -1,4 +1,5 @@
-# Meeting Purpose
+## Bible for Managers Sync
+
 ## Time: 5:00 pm PST
 
 **Lead**
@@ -13,7 +14,9 @@ Kevin Vuong
 * Jefferson Chhen (DevRel Manager)
 
 Recording Link
-[insert YouTube link to recording after meeting]
+https://youtu.be/aIw5KOlI22A
+
+https://youtu.be/dVLhLcQ2FDs
 
 ## Agenda
 **3 days before the meeting**
