@@ -37,6 +37,15 @@ Recording Link
 
 ## Updates:
 *What has been completed and can be checked off*
+* General announcements
+  * Encouraging **more activity** in **group chats**
+    * devrelmanagers
+    * Team-specific groups
+  * Encouraging all development-related talk to be on GitHub
+    * PR comments, discussing issues, clarifications on comments made
+      * Back-and-forths should be on Slack
+      * If it is a simple question/comment it should go in GitHub
+    * Can transfer Slack comments to GitHub
 * A list of checklists for the "Bible for Reviewers"
 
 ## Discussion Points:
