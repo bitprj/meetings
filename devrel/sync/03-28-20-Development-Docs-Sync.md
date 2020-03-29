@@ -34,11 +34,11 @@ Recording Link
 
 **During Meeting**
 
-- [ ] Start recording
-- [ ] Announce:
+- [x] Start recording
+- [x] Announce:
   “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
-- [ ] Take attendance
+- [x] Assign notetaker
+- [x] Take attendance
 
 **Start Meeting**
 
@@ -47,6 +47,10 @@ Recording Link
 *What has been completed and can be checked off*
 
 * Feedback on Transition to Remote?
+  * Team building
+  * #donuts for 3-4 ppl
+  * Subtle Bit Dating (lol)
+  * Round-Robin system within teams
 * Bible for Developers as currently constructed
   * Problems
   * What still needs work
@@ -70,6 +74,8 @@ Recording Link
 * Review of managers meeting
   * Make checklist more actionable
   * Remove "finishing touches" from all stages
+* Things to Cover
+  * "Content of Cards makes sense" should be clarified
 * Finalize Checklist
 
 ## Action Plan:
@@ -82,12 +88,14 @@ Recording Link
 
 *Within the next (timeframe)*
 
-| Name                                                         | Assigned To       | Deadline     | Notes                                                        |
-| ------------------------------------------------------------ | ----------------- | ------------ | ------------------------------------------------------------ |
-| Stage 1 Documentation                                        | @studentusername2 | Monday, 3/30 | Explanation                                                  |
-| Stage 2 Documentation                                        |                   | Monday, 3/30 |                                                              |
-| Stage 3 Documentation                                        |                   | Monday, 3/30 |                                                              |
-| Stage 4 Documentation                                        |                   | Monday, 3/30 |                                                              |
-| How this Checklist should be exactly used by Daniel (President), Kevin (or any Head of DevRel), managers and developers |                   | Monday, 3/30 |                                                              |
-| Documentation on creating a presentation from existing curriculum (DevRel perspective) + documentation on how to review a workshop |                   | Monday, 3/30 | Process of how to develop .md cards for curriculum as well as slides from .md. |
-| README On workshops + how to contribute to workshops from the outside |                   | Monday, 3/30 | In the workshops repository                                  |
+| Name                                                         | Assigned To | Deadline     | Notes                                                        |
+| ------------------------------------------------------------ | ----------- | ------------ | ------------------------------------------------------------ |
+| Stage 1 Documentation                                        | Joey        | Monday, 3/30 |                                                              |
+| Stage 2 Documentation                                        | Joey        | Monday, 3/30 |                                                              |
+| General Items Documentation                                  | Joey        | Monday, 3/30 |                                                              |
+| Stage 3 Documentation                                        | Atul        | Monday, 3/30 |                                                              |
+| Stage 4 Documentation                                        | Julia       | Monday, 3/30 |                                                              |
+| How this Checklist should be exactly used by Daniel (President), Kevin (or any Head of DevRel), managers and developers | Jose        | Monday, 3/30 |                                                              |
+| Documentation on creating a presentation from existing curriculum (DevRel perspective) + documentation on how to review a workshop | Kathy       | Monday, 3/30 | Process of how to develop .md cards for curriculum as well as slides from .md. |
+| README On workshops + how to contribute to workshops from the outside | Taimur      | Monday, 3/30 | In the workshops repository                                  |
+| Round-robin system documentation                             | Kevin Vuong | Monday, 3/30 |                                                              |

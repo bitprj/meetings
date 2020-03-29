@@ -133,7 +133,7 @@ Please reference the overall issue: https://github.com/bitprj/bitproject/issues/
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
 Documentation on receiving module assignments | Ismail Daud | Mon, 3/30 |       
-Documentation on Weekly Manager Checklist & GitHub Projects | Owen Gao | Mon, 3/30 | sync with Kevin on github projects 
+Documentation on Weekly Manager Checklist & GitHub Projects | Owen Gao | Mon, 3/30 | Please sync with Kevin on github projects 
 Documentation on Weekly Code Review | Michelle Hu | Mon, 3/30 | 
 Documentation on QA for managers (what should managers do every week to assure that devs put out high-quality content) | Jason Livinghouse | Mon, 3/30 | 
-Documentation on QA from Kevin and Daniel | Jeff Chhen        | Mon, 3/30 | sync with Kevin (in 1-1 tomorrow) 
+Documentation on QA from Kevin and Daniel | Jeff Chhen        | Mon, 3/30 | Please sync with Kevin (in 1-1 tomorrow) 

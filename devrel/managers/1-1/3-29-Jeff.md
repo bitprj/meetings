@@ -5,7 +5,7 @@
 Kevin Vuong
 
 **Attendees**
-* Owen Gao
+* Jeff Chhen
 
 ## Agenda
 **Start Meeting**
@@ -13,36 +13,34 @@ Kevin Vuong
 ## Updates:
 *What has been completed and can be checked off*
 
-* What is the status of everything? 
+* Figuring out modules + labs + activities for Front-End Engineering
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
-* Next actions will depend on current state
-  * If ideas 
-  * If ideas for activities and labs fully developed => proceed with Weekly Manager Checklist
-  * Follow the Weekly Manager Checklist for this upcoming week
-    * Update Zenhub Calendar
-    * Update long-term plan
-    * Generate more issues for both this week and next week
-    * Assign Epic Points to each lab
-    * Weekly Review of pull requests with comments
-    * Ensure "first draft" PRs are in by Friday, "final draft" PRs in by Sunday
-    * Provide all "proof" within issue's comments
+* Complete Receiving Module Assignments checklist
+* Follow the Weekly Manager Checklist for this upcoming week
+  * Update Zenhub Calendar
+  * Update long-term plan
+  * Generate more issues for both this week and next week
+  * Assign Epic Points to each lab
+  * Weekly Review of pull requests with comments
+  * Ensure "first draft" PRs are in by Friday, "final draft" PRs in by Sunday
+  * Provide all "proof" within issue's comments
 * GitHub issue to complete by **Sunday, 4/5**
-* Project Deadline of **April 13th**
+* Discuss Project Deadline
+* Discuss QA with Kevin and Daniel task
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
 
-* Concepts, Checkpoints, Formatting by READMEs
-* Gem Amounts next week
-* Completion of GitHub Issue by **Sunday** 
-  * https://github.com/bitprj/curriculum/issues/953
+* Execute Module Assignments Checklist
+* Execute Weekly Manager Checklist
 
 ## Deliverables:
 *Within the next week*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
- Completion of checklist | Owen Gao    | 4/5 (Sunday) | https://github.com/bitprj/curriculum/issues/953 
-
+ Module Assignments Checklist for Front-end Engineering | Jeff Chhen  | 4/1 (Wednesday) |       
+ Weekly Manager Checklist for Front-End Engineering     | Jeff Chhen  | 4/5 (Sunday) |  
+ Documentation on QA from Kevin and Daniel              | Jeff Chhen  | Mon, 3/30 |  
