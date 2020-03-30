@@ -50,9 +50,10 @@ Recording Link
 * Spring Quarter Deadlines
 * LMS & Powerpoint & Innovation (during/before BitCamp start)
 
+
 ## Deliverables:
 *Within the next (timeframe)*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-TBD | Julia Ma | TBD | TBD
+OOP Tutorial | Julia Ma | Sunday | N/A
