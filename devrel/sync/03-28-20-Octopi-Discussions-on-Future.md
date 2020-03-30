@@ -46,7 +46,7 @@ Recording Link
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
-* Discuss what needs to be documented
+* Discuss what needs to be documented and whether following sections should be added/changed/deleted:
   - Why Workshops
     - explanation of workshop version and curriculum version
   - 4-week stage run-through 
@@ -59,6 +59,7 @@ Recording Link
 *Where to go next, dependencies, all deadlines*
 * Documenting first version of how teams will contribute from here on out
   *  4-week Workshop Cycle
+* Final version should be up by this Saturday 4/4.
 
 ## Deliverables:
 *Within the next (timeframe)*
