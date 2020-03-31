@@ -1,8 +1,3 @@
-Intructions:
-* place notes in appropriate folder /meetings/.../...
-* name notes with date and purpose .../mm-dd-yy_purpose.md
-* don't forget the .md extension
-
 ## 1-1 with Sarah Gerard
 
 ## Time: 3:30 pm PST
