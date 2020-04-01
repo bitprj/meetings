@@ -1,4 +1,5 @@
-# Meeting Purpose
+## Sans-Culottes: Discussion on Future
+
 ## Time: 3/31/20 8 pm PST
 
 **Lead**
@@ -26,12 +27,12 @@ Recording Link
 - [x] Ask for last minute agenda items
 
 **During Meeting**
-- [ ] Everyone introduce themselves
-- [ ] Start recording
-- [ ] Announce:
+- [x] Everyone introduce themselves
+- [x] Start recording
+- [x] Announce:
 “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
-- [ ] Take attendance
+- [x] Assign notetaker
+- [x] Take attendance
 
 **Start Meeting**
 
@@ -44,17 +45,33 @@ Recording Link
 * Part 1: Idea/Motivation
   * To be completed during Week 1
   * Describes how far the world has come (examples, applications) with the topic covered in the workshop
-  * Use cases 
+  * Buzz-words
+  * Why it's useful
+    * Use cases 
+  * Learning objective
 * Part 2: Concepts + Introduction of Interactive Component
   * High-level concept overview
+    * Verbal descriptions of the concepts (preparation of content behind slides that may be hard to understand)
+      * Speaker notes most likely
   * Concepts covered should be directly related to the interactive component/project/game
   * (if applicable) introducing what was developed to support the code
     * Concepts should back this up too
+    * Concepts should be concisely described (no tangents)
   * Introducing interactive component
   * By part 2, concepts may not be fully completed (see part 3)
 * Part 3: **Interactive** Tutorial + Slides on Concepts
+  * Ample screen-shots
+  * Clear instructions on every slide (verbal/on the slide)
   * Step-by-step slides on interactive component
   * By part 3, concepts should be fully completed
+* General checklist:
+  * Headers
+  * Appropriate formatting
+  * Spelling, grammar
+  * Smooth transitions
+    * References to previous slides
+  * Consistent pacing
+    * All slides should have significant content
 
 #### What should be done per week
 
@@ -68,6 +85,17 @@ Recording Link
       * Code related to concepts covered directly in slides should be prioritized first
       * Week by week plan for deliverables (should be done as soon as possible - recommended time is 1-2 weeks but can extend to three weeks where necessary)
     * Outline of slides
+    * Explicitly list length: 90 mins to 2 hours
+    * (Following points were added in discussion)
+      * General Topic
+      * Interactive component
+        * How does the interactive component teach technologies?
+      * What should students be walking away with?
+      * What technologies would they use?
+      * Difficulty
+        * Is there prior experience needed?
+        * Any workshop prereqs?
+      * Ways that project is connected to the real world?
   * Manager should be checking in constantly throughout the first week to ensure the proposal is mostly done
 * Slides for Part 1: Idea/Motivation completed for QA
 
@@ -87,6 +115,7 @@ Recording Link
 
 * (only if applicable) Week 4's code deliverables in proposal
 * Slides for Part 3: Interactive Tutorial + Additional Concepts finalized by manager + devs
+* Lab Conversion
 
 #### Intern/Devs' Role During the Cycle
 
@@ -129,6 +158,20 @@ Recording Link
 * PPT/Slide Reviews
   * What goes into reviewing workshop slides
   * reviews should be week by week according to the slide deliverables
+
+##### Add:
+
+To proposal - should be very detailed
+
+* General Topic
+* Interactive component
+  * How does the interactive component teach technologies?
+* What should students be walking away with?
+* What technologies would they use?
+* Difficulty
+  * Is there prior experience needed?
+  * Any workshop prereqs?
+* Ways that project is connected to the real world?
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
