@@ -88,8 +88,8 @@ Name  | Assigned To | Deadline | Notes
  Provide code review on GitHub of Bible for Reviewers         |              | Wed, 4/1   | kevin will set up PR 
  Set-up pull request for bible for reviewers                  | Kevin Vuong  | Tues, 3/31 |  
  Documentation: general summary of how teams will contribute to workshops + motive behind them |              | TBA        |  
- Documentation: guide on how to pursue an idea for a workshop | Shayan Riyaz | Wed, 4/1   |  
+ Documentation: guide on how to pursue an idea for a workshop | Shayan Riyaz | Sat, 4/4   |  
  Documentation: 4-week cycle, what should be done by interns and devs each week in very specific detail (besides reviews) |              | TBA        |  
- Documentation: how to conduct code reviews (Week 2)          | Shayan Riyaz | Wed, 4/1   |  
+ Documentation: how to conduct code reviews (Week 2)          | Shayan Riyaz | Sat, 4/4   |  
  Documentation: how to conduct PPT/slide reviews (Week 3)     |              | TBA        |  
  Documentation: how to conduct curriculum reviews (Week 4)    |              | TBA        |  
