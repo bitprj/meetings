@@ -1,4 +1,4 @@
-# Meeting Purpose
+# Sans-Culottes: Discussion on Future
 ## Time: 3/31/20 8 pm PST
 
 **Lead**
