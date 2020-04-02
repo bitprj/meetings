@@ -1,4 +1,4 @@
-# DevRel 1-1 with Ismail (W2 SQ20)
+# DevRel 1-1 with Ismail (W1 SQ20)
 ## Time: 9:30 pm PST
 
 **Lead**
