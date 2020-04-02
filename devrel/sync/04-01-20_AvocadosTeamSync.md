@@ -10,7 +10,7 @@ Meeting Lead Mohammad Ismail Daud
 * Ethan Tang
 
 Recording Link
-[]
+[https://www.youtube.com/watch?v=Tg-neV-xhlY&feature=youtu.be]
 
 ## Agenda
 **3 days before the meeting**
