@@ -58,10 +58,10 @@ Recording Link
 - [ ] There aren't many explanations of why certain work is assigned to someone, just assigned in slack without much details. Make sure there is enough explanations.
 - [ ] There is a lot of changing in formatting of the work. 
 
-###Overall Picture
+### Overall Picture
 - [ ] Confusion with the overall picture of the whole BitProject organization. (Some people attend the last Town Hall meeting said that it was very useful since this issue has been addressed. keep that for our future Town Hall meetings since there is still some confusion occur)
 
-###Platform transition
+### Platform transition
 - [ ] There are a lot of transitions between the platforms that they are using (just trans to GitHub). Make sure there is an explanation when we transition to a new platform
 
 
