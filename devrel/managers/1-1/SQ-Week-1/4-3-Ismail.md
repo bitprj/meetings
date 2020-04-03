@@ -1,5 +1,5 @@
 # DevRel 1-1 with Ismail (W1 SQ20)
-## Time: 9:30 pm PST
+## Time: 3:30 pm PST
 
 **Lead**
 Kevin Vuong
