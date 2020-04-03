@@ -62,7 +62,7 @@ Recording Link
 - [ ] Confusion with the overall picture of the whole BitProject organization. (Some people attend the last Town Hall meeting said that it was very useful since this issue has been addressed. keep that for our future Town Hall meetings since there is still some confusion occur)
 
 ### Platform transition
-- [ ] There are a lot of transitions between the platforms that they are using (just trans to GitHub). Make sure there is an explanation when we transition to a new platform
+- [ ] There are a lot of transitions between the platforms that they are using (just trans to GitHub). Make sure there is an explanation of how to use the new platform when we doing the transition.
 
 
 
