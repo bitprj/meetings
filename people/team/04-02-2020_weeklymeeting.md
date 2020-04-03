@@ -50,7 +50,7 @@ Recording Link
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* NEED OUTLINE FOR MANAGEMENT TRAINING
 
 ## Deliverables:
 *Within the next (timeframe)*
