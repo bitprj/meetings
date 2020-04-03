@@ -64,16 +64,13 @@ Recording Link
 ### Platform transition
 - [ ] There are a lot of transitions between the platforms that they are using (just trans to GitHub). Make sure there is an explanation of how to use the new platform when we doing the transition.
 
-
-
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* NEED OUTLINE FOR MANAGEMENT TRAINING
-* Managers should have previous work shows before assigning task to a new member, include a summary of everything have done so far in the past to show the new member.
+* Managers should explain previous work to new members before assigning new work (bring them up to date), include a summary of everything have done so far in the past to show the new member.
 * Talk to the specific manager of the team for which team member come up with the issue of works assigned due really quickly, to see what happened.
-* When attending weekly meetings, make sure that the team have at least some knowledge about the road map. If they don't know about the road map, have the manager of that team explain as well.
+* When attending weekly meetings, **make sure that the team have at least some knowledge about the road map**. If they don't know about the road map, have the manager of that team explain as well.
 * When there is issue about work assigned without enough explanations, make sure the assigner had the enough communication with the the people he assigned work to before the deadline. Always let the assigner ask about how is the work going during the process, and including any confusions, what has done already so far. 
-* All the issues being addressed should direclt raise up into an GitHub issue to attract attention. So everyone can see it and know what the expections are.
+* All the issues being addressed should directly raise up into an GitHub issue to attract attention. So everyone can see it and know what the expections are.
 * When a work is assigned, an issue is raised (also when there is an issue with the developers issue), a project need to do done, talk in slack first and when come up with a decision, put it directly on GitHub.
 * Try to have more people to speak up during Town Hall (frequently bring up a question slide, pause for a long time to let others speak up).
 * Attending meetings every two week this month, and do it every 3 weeks after this month.
@@ -84,4 +81,8 @@ Recording Link
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
+Outline for management training | Becca Tran | April | 
+Send out application to listserv | Shreya Gupta | Monday |
+Give managers post-meeting feedback and determine plan of action to improve | Winnie Zhang | complete for all managers by April 10th |
+Check on feedback in two weeks | Winnie Zhang | two weeks | 
+Managers need to understand roadmap | Kevin Vuong | next week |
