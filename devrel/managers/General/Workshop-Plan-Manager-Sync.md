@@ -118,8 +118,8 @@ Recording Link
   * Every week: be available on Slack/GitHub to answer questions, follow-up on weekly checklist tasks
   * Every week: make relevant issues based on planned code deliverables and slide deliverables
   * Initially: Setting up a GitHub Project
-    * Track progress of all issues (Not Started/In Progress/Done/Blocked/Outdated)
-    * Send follow-ups periodically to ensure they are on track
+    * Every week, Track progress of all issues (Not Started/In Progress/Done/Blocked/Outdated)
+    * Send follow-ups periodically based on project to ensure they are on track
 * Compose Town Hall Agenda/Outline for Slides
   * Preliminary Idea
     1. General Announcements
