@@ -61,6 +61,7 @@ Recording Link
   * If they choose a workshop, they have two weeks to develop, present in 3rd week
     * Week 1
       - [ ] Convert workshop idea into mdx-deck slides
+      - [ ] Add new interactive component
     * Week 2:
       - [ ] Finalize slides 
       - [ ] Convert slides into Lab Format
@@ -98,8 +99,19 @@ Recording Link
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
+* Set this time for weekly meetings
 * Topics for core team to cover: Front-end and APIs
   * Who wants to be assigned what?
+    * Atul - Front-end Development
+      * Foundations (HTML/CSS/JS)
+      * React.js
+      * React Native
+      * GraphQL
+      * Static Site Generators (Gatsby.js)
+    * Taimur - Back-end Development
+      * MongoDB and NoSQL
+      * API Principles (REST)
+      * GraphQL
   * Need to determine list of modules (subtopics) for each topic
 * Discuss days of workshop deliverables
   * what days of the week is each task due?
@@ -127,7 +139,7 @@ Recording Link
        * Kevin's Projects
     2. Introducing Workshop Plan
     3. GitHub Protocol
-       * Emphasis on Checklists
+       * Emphasis on Checklists (all tasks will be on Github in the form of checklists)
        * Marking your checkmarks on GitHub when finishing
     4. `mdx-deck` demo (Atul?)
        * Basic slides in browser
@@ -136,6 +148,7 @@ Recording Link
     5. Deliverables 
        * Lucidchart
        * How many hours should they work? we should make that clear
+       * 5+ hours
 * Determine dev + manager deliverables for Sarah's team 
 
 ## Action Plan:
@@ -145,13 +158,13 @@ Recording Link
   * Making 4-week procedure more friendly with checklists (actionable items that can be pasted on GitHub)
   * Documenting 2-week procedure
   * Documenting Week 3 + 5 Presentation/Kevin QA
-
   * Lucidchart for week to week progression 
+  * ZenHub 
 * Other Immediate Tasks
 * Town Hall slides
   * Preparation of mdx-deck demo
-  * mdx-deck documentation
-* Upcoming Tasks 
+  * mdx-deck documentation [Atul]
+* Upcoming Tasks [Kevin]
 * Integrating Postman workshop as "examples" into Future Workshop Plan page
   * Postman Workshop converted to mdx-deck 
 
