@@ -100,7 +100,7 @@ Recording Link
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
 * Set this time for weekly meetings
-* Topics for core team to cover: Front-end and APIs
+* Topics for core team to cover: Front-end and Back-end
   * Who wants to be assigned what?
     * Atul - Front-end Development
       * Foundations (HTML/CSS/JS)
