@@ -45,7 +45,7 @@ Recording Link
 *Ideas, feedback, concerns, plans*
 
 * Managers who's assigning work, should also consider other factors that might affect the progress of the work (etc. busy schoolwork, other jobs). In order to eliminate concerns, Managers should have close communication with the person and push back the deadline properly if necessary.
-* Manager of the team being assigned work but not really involved in the meeting to discuss the work. Should work more on to make sure that all the managers are on the same page.
+* Manager of the team being assigned work but not really involved in the managers meeting to discuss the work. Should work more on to make sure that all the managers are on the same page.
 * The slides used for boot camps and/or webinars have too much unnecessary text and thus are very time-consuming to edit (for designers). The solution (if powerpoints are the only medium) would be to proofread and eliminate any unnecessary content-related things. However, due to the amount of info we need to cover, it seems that we should probably switch to or add another medium to our teaching methods.
 * Introduce the road map to the design team
 * Introduce the overall big picture to all the new members of all the team.
