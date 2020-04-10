@@ -52,7 +52,9 @@ Recording Link
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Create Guthub issues for the directors and managers weekly 1-1s
+* Email all the managers and the directors when receiving a specific feedbacks that related to their teams. Slack them be general things we need to change for the entire club. Plus the feedback that they need to receive for their particular team or department. 
+
 
 ## Deliverables:
 *Within the next (timeframe)*
