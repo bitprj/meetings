@@ -35,18 +35,30 @@ Recording Link
 ## Updates:
 *What has been completed and can be checked off*
 
-- Persona
+- **Persona**
   - What is it
   - Why do we need it
   - How do we create one
-- Twitter IMC updates
-  - Eden completed finding contacts
+- **Twitter IMC updates**
   - Researching persona
-- Content development
+  - What types of personas should we be targeting
+  - Action plan for personas
+  - Action plan for blogpost
+  - Updates on designs/illustrations
 
-- Determine times for team meetings
+- **For now: breakout meetings:**
+  - Writing: Vicky, Allie, Vibha: discuss onboarding and Postman blogpost - flesh it out
+  - Design: Rochelle, Lilly: adding illustrations to the github, types of illustrations we need to work on for our assets folder
+  - Postman IMC: meeting led by Daniel
+  - Twitter IMC: Iris, Monica, Eden, Brian, Shreya
 
-- Breakout meeting: Vicky, Allie, 
+- **Action plan:**
+  1. Currently getting speakers for a webinar
+  2. Need to start researching personas and gathering more contacts
+    - Airtable
+
+- Determine times for weekly team meetings
+- Setting up weekly 1:1s with manager
 
 - Onboarding for new members
 
