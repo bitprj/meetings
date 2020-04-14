@@ -66,7 +66,7 @@ Recording Link
 *Ideas, feedback, concerns, plans*
 
 - Questions to ask data science profs to flesh out persona
-- 
+- Communication (Iris), psych (Milap), sociology (Monica), Data science (Eden), stats (Su-Ting), Political science (Kim), Econ (Brian), history (Eden), business (Brian)
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
