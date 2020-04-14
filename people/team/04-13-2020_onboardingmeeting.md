@@ -57,6 +57,36 @@ Recording Link
 *Ideas, feedback, concerns, plans*
 
 * Technical Writer Onboarding
+  * Proper Grammar
+  * Adaptable and write in different styles
+    * Journalism and technical writing focused
+    * switch between formal and casual writing
+  * Analysis Skills
+    * Execute vibe of article, case study
+    * need to be profficient at at
+  * Editing and Proofreading Skills
+  * Relatively Organized, Timely, Reliable, Punctual, Open-minded
+    * especially towards technical applications
+  * Number of hours: Vary
+    * 5-7 hours a week
+  * High-Profficiency in Interviewing 
+  * Editing and Proofreading
+    * learn how to make issues, work on github desktop to access typora files
+    * word doc, go through and edit
+    * curriculum: most issues are grammatical and structural (run on sentences)
+    * for those more focused on academic writing
+  * Blog studies / case study
+    * journalism background
+    * in charge of collab with company or project
+      * case study: interview the person
+      * flush out questions
+      * record zoom meeting
+      * write first draft of case study
+      * lead edits the draft 
+      * help them make a final draft
+      * guide them to finish that
+  * Narrow down into: journalism, academic writing, technical writing
+    * test for each one: what should the final result be
 * Onboarding documentation
 
 ## Action Plan:
