@@ -41,7 +41,7 @@ Recording Link
   - How do we create one
 - **Twitter IMC updates**
   - Researching persona
-  - What types of personas should we be targeting
+  - *What types of personas should we be targeting*
   - Action plan for personas
   - Action plan for blogpost
   - Updates on designs/illustrations
