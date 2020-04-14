@@ -65,6 +65,7 @@ Recording Link
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
 
+- Questions to ask data science profs to flesh out persona
 - 
 
 ## Action Plan:
