@@ -67,14 +67,29 @@ Recording Link
 
 - Questions to ask data science profs to flesh out persona
 - Communication (Iris), psych (Milap), sociology (Monica), Data science (Eden), stats (Su-Ting), Political science (Kim), Econ (Brian), history (Eden), business (Brian)
+- Need to clarify questions more
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Creating personas:
+  - Outline persona profile
+  - Conduct research through various avenues
+  - Recommended (but not required) interviewing professionals
+  - Complete fleshing out persona
+  - Presenting persona in meeting
+  - Peer reviewing 
 
 ## Deliverables:
 *Within the next (timeframe)*
 
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
-Example 1 | @studentusername2 | Feb 30th | Explanation
+Communication Persona | Iris | April 17th | Create two personas for subject's Prof + grad student
+Psychology Persona | Milap | April 17th | Create two personas for subject's Prof + grad student
+Sociology Persona | Monica | April 17th | Create two personas for subject's Prof + grad student
+Data Science Persona | Eden | April 17th | Create two personas for subject's Prof + grad student
+Statistics Persona | Su-Ting | April 17th | Create two personas for subject's Prof + grad student
+Political Science Persona | Kimberly | April 17th | Create two personas for subject's Prof + grad student
+Economics Persona | Brian | April 17th | Create two personas for subject's Prof + grad student
+History Persona | Eden | April 17th | Create two personas for subject's Prof + grad student
+Business Persona | Brian | April 17th | Create two personas for subject's Prof + grad student
