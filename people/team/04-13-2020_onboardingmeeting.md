@@ -87,6 +87,9 @@ Recording Link
       * guide them to finish that
   * Narrow down into: journalism, academic writing, technical writing
     * test for each one: what should the final result be
+  * test then interview
+    * work on it and then explain it during the interview
+    * one task: find md file and blog post
 * Onboarding documentation
 
 ## Action Plan:
