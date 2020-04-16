@@ -45,10 +45,14 @@ Recording Link
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
 * Introducing GitHub Meeting structure
+* What are Monthly town halls, breakdown of
+* Daniel last meeting updated everyone on Bit's movement towards Remote work, afterwards there is another discussion
+* Add Steven to Meetings
+
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Next town Hall This Sunday 4pm
 
 ## Deliverables:
 *Within the next (timeframe)*
@@ -56,3 +60,4 @@ Recording Link
 Name  | Assigned To | Deadline | Notes
 ------|-------------|----------|------
 Example 1 | @studentusername2 | Feb 30th | Explanation
+Steven Nian | @nians520 | April 20th | Create Calendly
