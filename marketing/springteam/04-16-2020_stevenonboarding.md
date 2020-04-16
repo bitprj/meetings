@@ -47,7 +47,11 @@ Recording Link
 * Introducing GitHub Meeting structure
 * What are Monthly town halls, breakdown of
 * Daniel last meeting updated everyone on Bit's movement towards Remote work, afterwards there is another discussion
-* Add Steven to Meetings
+* Add Steven to Meetings calendar 
+* Give marketing intro presentation 
+* talking about twitter IMC stages, have meeting at end of each stage
+* Discuss the progress of the Twitter IMC and the different workshops
+
 
 
 ## Action Plan:
