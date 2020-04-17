@@ -9,8 +9,8 @@
 - Daniel
 - Minh-tu
 - Owen
-- Victoria
 - Winnie
+- Bryan
 
 Recording Link
 
@@ -38,19 +38,20 @@ Recording Link
 
 ## Updates:
 *What has been completed and can be checked off*
-
-* Update1
+- created bit heroes airtable
+- created underperforming training guidelines
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
-- sourcing
-- interviewing
-- underperformance training
-
+- interviewing: start conducting initial interviews for all new members
+- underperformance training: provide underperformance training to people that don't meet OKRs
+- have live github webinars
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+- start interviewing applicants
+- document underperforming training guidelines
+- sourcing: keep reaching out
 
 ## Deliverables:
 *Within the next (timeframe)*
