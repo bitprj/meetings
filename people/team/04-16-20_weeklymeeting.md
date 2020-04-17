@@ -1,9 +1,4 @@
-Intructions:
-* place notes in appropriate folder /meetings/.../...
-* name notes with date and purpose .../mm-dd-yy_puhttps://github.com/bitprj/meetings/blob/master/people/team/04-16-20_weeklymeetingrpose.md
-* don't forget the .md extension
-
-# Meeting Purpose
+# Weekly Updates
 ## Time: 8:00 PST
 
 **Lead**
