@@ -2,11 +2,7 @@
 ## Time: 01:00 AM 
 
 **Lead**
-Shreya & 
-
-**Attendees**
-* Student Name 
-* Student Name 
+Shreya & Minh-Tu
 
 Recording Link
 [insert YouTube link to recording after meeting]
