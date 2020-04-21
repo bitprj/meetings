@@ -1,4 +1,4 @@
-# Onboarding Introduction
+# Collin Chee Onboarding Introduction
 
 ## Time: 1:00 pm PST
 
