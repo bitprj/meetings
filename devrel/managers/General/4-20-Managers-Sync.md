@@ -45,10 +45,11 @@ Recording Link
   * Specific documentation and instructions will be up by Sunday
 * Briefly discuss changes in plans for last weeks of the cycle
   * There are conceptual sections and interactive sections in a workshop
-  * To simplify the workshop development process, all workshops will be presented within our LMS
-    * Conceptual sections in MDX-Deck Format
-    * Interactive sections will be activity cards
-  * More details (and documentation) in a couple weeks!
+    * To simplify the workshop development process, all workshops will be presented within our LMS
+      * Conceptual sections in MDX-Deck Format
+      * Interactive sections will be activity cards
+    * More details (and documentation) in a couple weeks!
+  * ALL workshops will be **marketed** for presentation in the last week 
 
 ## Discussion Points:
 *Ideas, feedback, concerns, plans*
