@@ -1,9 +1,3 @@
-Intructions:
-
-* place notes in appropriate folder /meetings/.../...
-* name notes with date and purpose .../mm-dd-yy_purpose.md
-* don't forget the .md extension
-
 # Follow up 1-1
 
 ## Time: 01:45 pm PST
@@ -34,12 +28,12 @@ Recording Link
 
 **During Meeting**
 
-- [ ] Everyone introduce themselves
-- [ ] Start recording
-- [ ] Announce:
+- [x] Everyone introduce themselves
+- [x] Start recording
+- [x] Announce:
   “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
-- [ ] Take attendance
+- [x] Assign notetaker
+- [x] Take attendance
 
 **Start Meeting**
 
@@ -47,24 +41,30 @@ Recording Link
 
 *What has been completed and can be checked off*
 
-* Update1
+* How to create issues on GitHub, how to invite people on Github
+* Added Collin to airtable to see who needs to be invited or sent an email
 
 ## Discussion Points:
 
 *Ideas, feedback, concerns, plans*
 
-* Discussion1
+* How to create issues
+* looked at the edited handbook for dev and managers
+* 
 
 ## Action Plan:
 
 *Where to go next, dependencies, all deadlines*
 
-* Plan1
+* Collin should start onboarding people soon. sending out emails
+* Create interview questions for applicants
 
 ## Deliverables:
 
 *Within the next (timeframe)*
 
-| Name      | Assigned To       | Deadline | Notes       |
-| --------- | ----------------- | -------- | ----------- |
-| Example 1 | @studentusername2 | Feb 30th | Explanation |
+| Name                       | Assigned To          | Deadline               | Notes                                                        |
+| -------------------------- | -------------------- | ---------------------- | ------------------------------------------------------------ |
+| Onboard recent applicants  | Collin               | For the next few weeks | onboard applicants by sending them welcome emails            |
+| Create interview questions | Collin/Becca/Minh-Tu | ASAP                   | create interview questions for the roles that Becca specified. |
+
