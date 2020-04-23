@@ -48,29 +48,33 @@ N/A
 *Where to go next, dependencies, all deadlines*
 
 - [ ] Collect more contacts on AirTable (Shreya)
-- [ ] Complete research of COVID-19 API by (Wed 4/22)
+- [ ] Complete research of COVID-19 API by **(Wed 4/22)**
   - [ ] Find five marketable points that can be turned into demos for the workshop
-- [ ] Contact Design Team by (Wed 4/22)
-  - [ ] Convey that graphic needs to be completed by (Mon 4/27)
+- [ ] Contact Design Team by **(Wed 4/22)**
+  - [ ] Convey that graphic needs to be completed by **(Mon 4/27)**
   - [ ] Establish an idea for the design of the infographic
     - [ ] Consult Daniel if necessary, or use existing design
-- [ ] Contact Writing Team by (Wed 4/22)
+- [ ] Contact Writing Team by **(Wed 4/22)**
   - [ ] Let them know that a task is coming up and set a date for Zoom meeting w/ KV and JH
 - [ ] Set-up meetings with:
-  - [ ] Kevin Vuong (Thurs 4/23)
+  - [ ] Kevin Vuong **(Thurs 4/23)**
     - [ ] Discuss potential demos for the Postman workshop
     - [ ] Communicate what kinds of articles we need to pump out
     - [ ] Ask where the curriculum for the workshop is
       - [ ] Obtain the link and send it to Victoria Xu (ASAP)
-  - [ ] Joey Hua (Thurs 4/23)
+  - [ ] Joey Hua **(Thurs 4/23)**
     - [ ] Ask where the curriculum for the workshop is
       - [ ] Obtain the link and send it to Victoria Xu (ASAP)
-  - [ ] Writing Team and Kevin Vuong/Joey Hua (Fri 4/24)
+  - [ ] Writing Team and Kevin Vuong/Joey Hua **(Fri 4/24)**
+    - [ ] Emphasize they must start either Sunday or Monday (@ earliest convenience)
+      - [ ] We need 2-3 additional blog posts about API 
+        - [ ] All writing due **(Tues 4/28)**
     - [ ] Discuss marketable points and key ideas we want to present
-    - [ ] Mention that we need 2-3 additional blog posts about API
-- [ ] Final Outcome Completed by (Wed 4/29)
-  - [ ] An email to be sent out by (Wed 4/29)
-  - [ ] 3 complete blog posts (Wed AM 4/29)
+    - [ ] Edit Postman blog written by Joey
+- [ ] Overall Final Outcome Completed before/by **(Wed 4/29)**
+  - [ ] Graphic design for the workshop
+  - [ ] An email ready to be sent out
+  - [ ] 3 additional/complete blog posts 
 
 ## Deliverables:
 
