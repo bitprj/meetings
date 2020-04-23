@@ -51,7 +51,7 @@ N/A
 - [ ] Complete research of COVID-19 API by **(Wed 4/22)**
   - [ ] Find five marketable points that can be turned into demos for the workshop
 - [ ] Contact Design Team by **(Wed 4/22)**
-  - [ ] Convey that graphic needs to be completed by **(Mon 4/27)**
+  - [ ] Convey that graphic needs to be completed by **(Mon 4/27)** and up on the website by **(Tues night 4/28)**
   - [ ] Establish an idea for the design of the infographic
     - [ ] Consult Daniel if necessary, or use existing design
 - [ ] Contact Writing Team by **(Wed 4/22)**
@@ -68,7 +68,7 @@ N/A
   - [ ] Writing Team and Kevin Vuong/Joey Hua **(Fri 4/24)**
     - [ ] Emphasize they must start either Sunday or Monday (@ earliest convenience)
       - [ ] We need 2-3 additional blog posts about API 
-        - [ ] All writing due **(Tues 4/28)**
+        - [ ] All writing due and up on the website by**(Tues night 4/28)**
     - [ ] Discuss marketable points and key ideas we want to present
     - [ ] Edit Postman blog written by Joey
 - [ ] Overall Final Outcome Completed before/by **(Wed 4/29)**
