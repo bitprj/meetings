@@ -1,6 +1,6 @@
 
 
-# Meeting Purpose
+# Content Dev intro webinar
 
 ## Time: 03:30 pm PST
 
@@ -13,7 +13,6 @@ Collin Chee
 
 * Eugene Williams
 * Xinyu Wu
-* Benjamin John
 * Xiaoying Zhu
 * 
 
@@ -21,6 +20,8 @@ Recording Link
 [insert YouTube link to recording after meeting]
 
 Johnathan Lu (SEND RECORDING of meeting)
+
+Benjamin John (SEND RECORDING)
 
 ## Agenda
 
@@ -42,7 +43,7 @@ Johnathan Lu (SEND RECORDING of meeting)
 - [ ] Start recording
 - [ ] Announce:
   “This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
-- [ ] Assign notetaker
+- [x] Assign notetaker
 - [ ] Take attendance
 
 **Start Meeting**
@@ -63,7 +64,7 @@ Johnathan Lu (SEND RECORDING of meeting)
 
 *Where to go next, dependencies, all deadlines*
 
-* Have them create duos
+* Have them create duos, make sure they create github and join slack. Read onboard instructions.
 
 ## Deliverables:
 
