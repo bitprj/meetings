@@ -48,29 +48,29 @@ N/A
 *Where to go next, dependencies, all deadlines*
 
 - [ ] Collect more contacts on AirTable (Shreya)
-- [ ] Complete research of COVID-19 API by **(Wed 4/22)**
-  - [ ] Find five marketable points that can be turned into demos for the workshop
-- [ ] Contact Design Team by **(Wed 4/22)**
-  - [ ] Convey that graphic needs to be completed by **(Mon 4/27)** and up on the website by **(Tues night 4/28)**
-  - [ ] Establish an idea for the design of the infographic
+- [x] Complete research of COVID-19 API by **(Wed 4/22)**
+  - [x] Find marketable points that can be turned into demos for the workshop
+- [x] Contact Design Team by **(Wed 4/22)**
+  - [x] Convey that graphic needs to be completed by **(Mon 4/27)** and up on the website by **(Tues night 4/28)**
+  - [x] Establish an idea for the design of the infographic
     - [ ] Consult Daniel if necessary, or use existing design
-- [ ] Contact Writing Team by **(Wed 4/22)**
-  - [ ] Let them know that a task is coming up and set a date for Zoom meeting w/ KV and JH
+- [x] Contact Writing Team by **(Wed 4/22)**
+  - [x] Let them know that a task is coming up and set a date for Zoom meeting w/ KV and JH
 - [ ] Set-up meetings with:
-  - [ ] Kevin Vuong **(Thurs 4/23)**
-    - [ ] Discuss potential demos for the Postman workshop
-    - [ ] Communicate what kinds of articles we need to pump out
-    - [ ] Ask where the curriculum for the workshop is
+  - [x] Kevin Vuong **(Thurs 4/23)**
+    - [x] Discuss potential demos for the Postman workshop
+    - [x] Communicate what kinds of articles we need to pump out
+    - [x] Ask where the curriculum for the workshop is
       - [ ] Obtain the link and send it to Victoria Xu (ASAP)
-  - [ ] Joey Hua **(Thurs 4/23)**
-    - [ ] Ask where the curriculum for the workshop is
+  - [x] Joey Hua **(Thurs 4/23)**
+    - [x] Ask where the curriculum for the workshop is
       - [ ] Obtain the link and send it to Victoria Xu (ASAP)
   - [ ] Writing Team and Kevin Vuong/Joey Hua **(Fri 4/24)**
     - [ ] Emphasize they must start either Sunday or Monday (@ earliest convenience)
       - [ ] We need 2-3 additional blog posts about API 
         - [ ] All writing due and up on the website by**(Tues night 4/28)**
     - [ ] Discuss marketable points and key ideas we want to present
-    - [ ] Edit Postman blog written by Joey
+    - [ ] Edit Postman blog written by Joey (Allie??)
 - [ ] Overall Final Outcome Completed before/by **(Wed 4/29)**
   - [ ] Graphic design for the workshop
   - [ ] An email ready to be sent out
