@@ -7,7 +7,7 @@ Intructions:
 ## Time: 8:10 pm PST
 
 **Lead**
-Steven 
+Steven Nian
 
 **Attendees**
 * Shreya Gupta 
