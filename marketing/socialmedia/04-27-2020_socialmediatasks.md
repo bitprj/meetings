@@ -1,7 +1,8 @@
 # Meeting Purpose
 
 **Lead**
-Daniel 
+
+* Daniel 
 
 **Attendees**
 
