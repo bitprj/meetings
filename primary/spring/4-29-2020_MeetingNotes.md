@@ -76,6 +76,7 @@ Recording Link
   * Mary: Feels bad whenever contact the design team to work on the newsletter, hopefully once we get a new design team this will be better
   * David: Have a visual calendar for our deadlines next month, so we can see what we will have done by the end of the month
   * Jing: Benefit by having a ToDo app, something like Asana
+  * Amanda: Send actual mail to homes to help with marketing
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
