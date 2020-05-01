@@ -3,8 +3,8 @@ Intructions:
 * name notes with date and purpose .../mm-dd-yy_purpose.md
 * don't forget the .md extension
 
-# Meeting Purpose
-## Time: hh:mm am/pm PST
+# people department weekly meeting
+## Time: 8:00 pm
 
 **Lead**
 Meeting Lead Name 
