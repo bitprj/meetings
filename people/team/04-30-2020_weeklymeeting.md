@@ -74,7 +74,9 @@ Recording Link
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
+
 *next week OKRs*
+
 * Minh-Tu: create an onboarding training for new onboarding associates so they have a clear sense of what need to do. Please create some short clips walking them through where to find the templates through GitHub and how to use Airtable and such
 * Collin: Please continue improving the eduflow! It looks great right now. Also continue editing the email template after you have a good draft of the eduflow course. The email template should include the following: Interview information (calendly of sourcer), a disclaimer saying “schedule interview within 3 days. If you have to cancel the meeting for any reason, please do 24 hours in advance. You can get rid of the steps. keep the first paragraph and the last paragraph of the original template. Also please update the onboarding checklists for the marketing team, please refer to the people onboarding checklist and you can basically copy it except the have a different task.
 *Katie: please help adding the interview questions (to the doc above) that you think would help best assess a person’s skill. It will help us find them the best position in Bit. Also I can show you the process trmw if you are free. Contact again 20 different schools. And start holding interviews!
