@@ -69,7 +69,12 @@ Recording Link
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Will have plan on introducing zenhub to everyone, which might make the github much easier to navigate
+* When someone feels the onboarding process is too long or they are having some issue completing it, they could ask the manager to give them some more time.
+* Onboarding webinars will be cut into several shorter videos.
+* when onboarding someone, it would be helpful to ask them do they want to stay in Bit, and also ask about what position they actually want. People with the position they want will more likely to engaged in hard-working.
+* Ask every manager to publish their team meetings to BitProject calendar
+* when someone seems like having a lot of negative feedbacks, it would be better to set up a 1-1 after to talk with them to see what we can help them with.
 
 ## Deliverables:
 *Within the next (timeframe)*
