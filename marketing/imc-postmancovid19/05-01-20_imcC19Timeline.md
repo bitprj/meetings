@@ -9,7 +9,7 @@ Shreya G.
 
 * Joey Hua
 * Daniel Kim
-* Matthew Edward Lee 
+* Matthew Edward Lee
 
 ## Agenda
 
