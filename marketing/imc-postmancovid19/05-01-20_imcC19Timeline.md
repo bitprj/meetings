@@ -131,4 +131,4 @@ Shreya G.
 
 * Marketing done within next two weeks
 
-  * 300 people within next two weeks
+  * Get 300 people to attend within next two weeks
