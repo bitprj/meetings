@@ -128,7 +128,7 @@ Minh Tu |  | May 14th | finish up the eduflowo publicize
 Minh Tu |  | May 11th & May 14th | Start documenting the new off boarding procedure. Have it done by May 11th for review. Completed by May 14. 
 Winnie |  | This weekend | Enforcing 1:1 for next week, create issue on github
 Winnie |  | ASAP | document the difference between 1:1 onboarding and 1:1 weekly
-Winnie |  | May 9th | Compile a list of people need to kick off 
+Winnie |  | May 9th | Compile a list of people need to kick off, show directors & document on airtable
 Samantha | | May 9th | come out strategy on how to reach out to clubs for each IMC
 Katie | | May 11th & May 13th | Create the People Team rubric for the case prompt so we assess whether they are eligible for an interview. Rough draft by May 11th and completed by May 13th
 katie | | May 11th & May 13th | Continue the interview Q. Rough draft by May 11th and completed by May 13th
