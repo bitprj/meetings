@@ -6,8 +6,8 @@ Meeting Notes
 - [x] People Dept.
     - [ ] Management training
 - [x] [School chapters](https://docs.google.com/document/d/1bxxFimRTXtWNrewXofYq8vCE8-sgiYIEHVzvM1nbHJY/edit)
-- [ ] Handbook
-- [ ] Meeting notes
+- [ ] Handbook @beccatran
+- [x] Meeting notes
 
 # Action Plan
 - Jasmine (L&D Manager) OKR documention
