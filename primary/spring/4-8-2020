@@ -1,0 +1,86 @@
+Intructions:
+* place notes in appropriate folder /meetings/.../...
+* name notes with date and purpose .../mm-dd-yy_purpose.md
+* don't forget the .md extension
+
+# Meeting Purpose
+## Time: 09:19 pm PST - 10:05 pm PST 
+
+**Lead**
+Jingyanshan Li
+
+**Attendees**
+* Jasmine Yee  
+* Mary Bangloy 
+* Winnie Zhang 
+* Jasmine Yee 
+* Amanda Huang 
+* Jingyanshan Li 
+* Shreya Gupta 
+* David Miller
+
+Recording Link
+[insert YouTube link to recording after meeting]
+
+## Agenda
+**3 days before the meeting**
+- [ ] Create Zoom link for the meeting
+- [ ] Create Google Calendar Invite for all attendees
+- [ ] Ask everyone to put their items that they've been working on the past two weeks in markdown file
+- [ ] Ask everyone to contribute to the agenda items and [meeting plan below](https://github.com/shreyagupta98/people/blob/master/meeting_template.md#updates)
+
+**1 day before the meeting**
+- [ ] Send reminders to Slack channel tagging appropriate folks. 
+- [ ] Ask for last minute agenda items
+
+**During Meeting**
+- [x] Everyone introduce themselves
+- [x] Start recording
+- [x] Announce:
+“This meeting is being video and audio recorded and the recording will be published publicly for transparency. If you are uncomfortable with the recording, please let your supervisor know and leave the meeting when necessary.”
+- [x] Assign notetaker
+- [x] Take attendance
+
+**Start Meeting**
+
+## Updates:
+*What has been completed and can be checked off*
+
+* First Draft of the weekly newsletter
+  * completed by Mary 
+  * Rochelle started on the newsletter; Rochelle will complete the deisgn by wednesday night (04.08.2020) 
+* Documentations: 1. How to choose a lesson 2. how to train developers 3. how to peer review 4. How to write curriculum 
+  * Jasmine is working on revising the documentations 
+* Special Needs Training
+  * David emailed faculty/UCDavis minds institude with materials 
+    * > what's in the fruit
+    
+## Discussion Points:
+* Microsoft Event 
+  * Jasmine sent out an email to the parents asking for parents to sign up for the Microsoft Event (04.10.2020) 
+* New idea for the Newsletter Format 
+  * Parent Section and Students section 
+* Newsletter FeedBack form 
+  * Send a follow up email to the parents 
+* Collabration with CS4K club 
+  * waiting to hear back from CS4K on collabration with bitProject  
+
+
+## Action Plan:
+*Where to go next, dependencies, all deadlines*
+* Outreach to Koramazu Elementary teachers/UcDavis Faculty
+* Microsoft Team Meeting Event (04.08.2020) 
+* Reformatting curriculum slides 
+  * 3 slides/person 
+  * 1st Due Date: Saturday, April 11th, 2020 
+  * Final Due Date: Monday April 13th,2020 
+
+## Deliverables:
+*Within the next (timeframe)*
+
+Name  | Assigned To | Deadline | Notes
+------|-------------|----------|------
+Send a Follow-Up Email (NewsLetter Feedback & Microsoft Team Meeting Info) to the parents| @jazyee | Apr 9th | 
+Finalize NewsLetter | @mbangloy | April 10th | 
+Follow-Up email for falculty outreach (Special Needs Training) | @davidmiller7 | Apr 12th | Send a follow-up email if the professor doesn't respond
+Reformat Curriculum Slides|@All|April 11th|Final Due Date: APril 13th 2020 
