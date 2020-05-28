@@ -49,7 +49,7 @@ Mary Bangloy  & Jingyanshan Li
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Microsoft event on Froday about coding
+* Microsoft event on Friday about coding
 
 
 ## Deliverables:
