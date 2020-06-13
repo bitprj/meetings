@@ -11,7 +11,7 @@
 
 **Check off your name after you have finished filling out your part of the report!**
 
-## Blogs Reviewed This Week
+## Blogs Reviewed This Week 
 
 **See report template for the blog status format.**
 
