@@ -29,6 +29,8 @@ Please enter any miscellaneous info or notes you would like to share. For instan
 
 ### Atul
 
+I didn't review any blogs this week. Pretty much all blogs that I have reviewed previously are either finished or still in the proposal stage. No new developments.
+
 ### Chris
 
 ### Kyle
