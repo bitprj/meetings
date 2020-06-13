@@ -24,7 +24,7 @@ For each blog reviewed this week, please fill out the following information in t
 * GITHUB ISSUE #: [All GitHub issue numbers related to this blog]
 * GITHUB PR #:  [All GitHub PR numbers related to this blog]
 
-## Miscellaneous
+## Miscellaneous 
 Please enter any miscellaneous info or notes you would like to share. For instance, if you did not review any blogs this week, put that down in the section corresponding to your name.
 
 ### Atul
