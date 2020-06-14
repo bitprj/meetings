@@ -7,7 +7,7 @@
 - [ ] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [x] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -31,3 +31,5 @@ I didn't review any blogs this week. Pretty much all blogs that I have reviewed 
 ### Wei
 
 ### Emily
+
+I just joined the QA team, so I haven't reviewed any blogs yet. I am excited to start working with you all!
