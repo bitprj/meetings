@@ -9,7 +9,7 @@ Mary Bangloy
 * David Miller (@davidmiller7)
 * Winnie Zhang (@winniezhang-23)
 * Amanda Huang (@ah1013)
-* Jingyanshan Li (@Jing-Li-311) 
+* Lauren Sharkey 
 
 Recording Link
 [insert YouTube link to recording after meeting]
@@ -33,14 +33,16 @@ Recording Link
 * Updated the due dates for summer Bit on Airtable 
 * first 2 activities are sent to the design team/ Slides are done 
 * Start on activity/lesson plan due June 26th 
+* microsoft slides deadline 
 
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
-* Discussion1
+* Microsoft summer programs- find on primaryEd channel 
 
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
-* Plan1
+* Friday Optional WorkSession at 9pm 
+
 
 ## Deliverables:
 *Within the next (timeframe)*
