@@ -2,12 +2,12 @@
 
 ## QA's
 
-- [] Atul Jayaram
-- [] Christopher Ton
-- [] Kyle Begovich
-- [] Alex Doytchinov
-- [] Wei
-- [] Emily Gui
+- [ ] Atul Jayaram
+- [ ] Christopher Ton
+- [ ] Kyle Begovich
+- [ ] Alex Doytchinov
+- [ ] Wei
+- [ ] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
