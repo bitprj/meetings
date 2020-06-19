@@ -1,4 +1,4 @@
-# Weekly QA Report [Week Of June 13]
+# Weekly QA Report [Week Of June 20]
 
 ## QA's
 
@@ -18,12 +18,22 @@
 ### Full Analysis
 
 * AUTHOR: @weiy6 (Wei)
-* REVIEWER/QA: @christopherton (Chris)
+* REVIEWER/QA:  @atuljayaram (Atul)
 * IMC: R
-* CURRENT STATUS: Submitted proposal
+* CURRENT STATUS: Submitted proposal. Assigned @christopherton (Chris) as QA.
 * ISSUES/CONCERNS/OBSTACLES: Nothing major.
 * GITHUB ISSUE #: 141
 * GITHUB PR #:  233
+
+### Introduction to Web Animations using CSS
+
+* AUTHOR: @KathyLiu20 (Kathy
+* REVIEWER/QA:  @atuljayaram (Atul)
+* IMC: WebDev
+* CURRENT STATUS: Started work on blog. Completed major sections on code deliverables and introducing key CSS concepts.
+* ISSUES/CONCERNS/OBSTACLES: Nothing major.
+* GITHUB ISSUE #: 130
+* GITHUB PR #:  267
 
 
 ## Miscellaneous 
