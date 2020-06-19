@@ -19,6 +19,7 @@ For each blog reviewed this week, please fill out the following information in t
 
 * AUTHOR: _____
 * REVIEWER/QA: _____
+* IMC: ____
 * CURRENT STATUS: [How far along are they in the process?]
 * ISSUES/CONCERNS/OBSTACLES: [Did you run into any issues while QAing this blog? Any concerns about how a certain blog is progressing or being written? Any other feedback about the QA process in general?]
 * GITHUB ISSUE #: [All GitHub issue numbers related to this blog]
