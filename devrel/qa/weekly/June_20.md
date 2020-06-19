@@ -22,8 +22,8 @@
 * IMC: R
 * CURRENT STATUS: Submitted proposal
 * ISSUES/CONCERNS/OBSTACLES: Nothing major.
-* GITHUB ISSUE #: #141
-* GITHUB PR #:  #233
+* GITHUB ISSUE #: 141
+* GITHUB PR #:  233
 
 
 ## Miscellaneous 
