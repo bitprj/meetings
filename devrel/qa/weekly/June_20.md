@@ -38,7 +38,7 @@
 
 ## Miscellaneous 
 Please enter any miscellaneous info or notes you would like to share. For instance, if you did not review any blogs this week, put that down in the section corresponding to your name.
-
+ 
 ### Atul
 
 Nothing for this week.
