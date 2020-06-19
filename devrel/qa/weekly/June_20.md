@@ -15,7 +15,7 @@
 
 **See report template for the blog status format.**
 
-### [Full Analysis]
+### Full Analysis
 
 * AUTHOR: @weiy6 (Wei)
 * REVIEWER/QA: @christopherton (Chris)
