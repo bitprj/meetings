@@ -5,7 +5,7 @@
 - [x] Atul Jayaram
 - [ ] Christopher Ton
 - [ ] Kyle Begovich
-- [ ] Alex Doytchinov
+- [X] Alex Doytchinov
 - [ ] Wei
 - [ ] Emily Gui
 
@@ -48,6 +48,8 @@ Nothing for this week.
 ### Kyle
 
 ### Alex
+
+No new updates.
 
 ### Wei
 
