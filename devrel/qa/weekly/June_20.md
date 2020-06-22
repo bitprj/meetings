@@ -4,7 +4,7 @@
 
 - [x] Atul Jayaram
 - [ ] Christopher Ton
-- [ ] Kyle Begovich
+- [X] Kyle Begovich
 - [X] Alex Doytchinov
 - [ ] Wei
 - [ ] Emily Gui
@@ -35,6 +35,36 @@
 * GITHUB ISSUE #: 130
 * GITHUB PR #:  267
 
+### Introduction to Hadoop - Theory
+
+* AUTHOR: @shayanriyaz (Shayan)
+* REVIEWER/QA:  @kylebegovich (Kyle)
+* IMC: Big Data
+* CURRENT STATUS: Content is ready to merge, but the PR needs to be targeted to the right branch. Being translated into slides for Webinar this upcoming week.
+* ISSUES/CONCERNS/OBSTACLES: Forthcoming implementation details of Hadoop and how to use it, this blog existing in isolation is only so-so.
+* GITHUB ISSUE #: 147
+* GITHUB PR #:  193
+
+### Data Vizualization using Tableau
+
+* AUTHOR: @narae970210 (Narae)
+* REVIEWER/QA:  @kylebegovich (Kyle)
+* IMC: Big Data
+* CURRENT STATUS: First and second PR review done this week, looks good to merge now after fixing minor nits. Being translated into slides for Webinar this upcoming week.
+* ISSUES/CONCERNS/OBSTACLES: Lots of cool Tableau functionality is left out since this is the baseline "how to use tableau" guide. Good alone, but could be much better supplemented by advanced coverage.
+* GITHUB ISSUE #: 148
+* GITHUB PR #:  228
+
+### Scraping and Sanitizing Data using BeautifulSoup
+
+* AUTHOR: @alexdoytch (Alex)
+* REVIEWER/QA:  @kylebegovich (Kyle)
+* IMC: Big Data
+* CURRENT STATUS: Ready to merge, being translated into slides for Webinar this upcoming week.
+* ISSUES/CONCERNS/OBSTACLES: Great intro to scraping using BeautifulSoup, might benefit from overview of the other tools available for web scraping.
+* GITHUB ISSUE #: 161
+* GITHUB PR #:  206
+
 
 ## Miscellaneous 
 Please enter any miscellaneous info or notes you would like to share. For instance, if you did not review any blogs this week, put that down in the section corresponding to your name.
@@ -46,6 +76,8 @@ Nothing for this week.
 ### Chris
 
 ### Kyle
+
+Completed three blog PR reviews this past week, not expecting more for a few more weeks, though.
 
 ### Alex
 
