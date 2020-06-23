@@ -2,8 +2,8 @@
 
 ## QA's
 
-- [x] Atul Jayaram
-- [ ] Christopher Ton
+- [X] Atul Jayaram
+- [X] Christopher Ton
 - [X] Kyle Begovich
 - [X] Alex Doytchinov
 - [ ] Wei
@@ -74,6 +74,8 @@ Please enter any miscellaneous info or notes you would like to share. For instan
 Nothing for this week.
 
 ### Chris
+
+My devs are just starting out with their codes so no blogs in progress. I'm them write code while throwing out blog idea/format structuring etc
 
 ### Kyle
 
