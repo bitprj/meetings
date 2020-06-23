@@ -7,7 +7,7 @@
 - [X] Kyle Begovich
 - [X] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [X] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -86,4 +86,6 @@ No new updates.
 ### Wei
 
 ### Emily
+
+Nothing this week, have yet to start QA responsibilities. 
 
