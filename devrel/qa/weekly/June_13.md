@@ -24,6 +24,8 @@ I didn't review any blogs this week. Pretty much all blogs that I have reviewed 
 
 ### Chris
 
+My devs are just starting out with their codes so no blogs in progress. I'm them write code while throwing out blog idea/format structuring etc
+
 ### Kyle
 
 I have assigend three blogs to myself this week, will be reviewing Alex's blog this weekend and Narae's and Shayan's blogs as they're submitted next week.
