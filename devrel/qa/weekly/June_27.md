@@ -4,7 +4,7 @@
 
 - [ ] Atul Jayaram
 - [ ] Christopher Ton
-- [ ] Kyle Begovich
+- [X] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
 - [X] Emily Gui
@@ -23,6 +23,7 @@ Please enter any miscellaneous info or notes you would like to share. For instan
 ### Chris
 
 ### Kyle
+No blog QA reviews this week, but reviewed slide translations of blogs in our [webinar deck here](https://docs.google.com/presentation/d/1R4i8G-a7iwa0rozi8uWwM9mEvfeek-9vgPZLTtoupGM/edit?usp=sharing).
 
 ### Alex
 
