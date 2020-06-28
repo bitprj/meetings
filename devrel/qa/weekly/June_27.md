@@ -7,7 +7,7 @@
 - [ ] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [X] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -29,4 +29,4 @@ Please enter any miscellaneous info or notes you would like to share. For instan
 ### Wei
 
 ### Emily
-
+I did not review any blogs this week, but I did finish my blog for IMC-WebDev and am currently preparing for the webinar.
