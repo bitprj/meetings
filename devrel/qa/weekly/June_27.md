@@ -2,7 +2,7 @@
 
 ## QA's
 
-- [ ] Atul Jayaram
+- [X] Atul Jayaram
 - [ ] Christopher Ton
 - [X] Kyle Begovich
 - [ ] Alex Doytchinov
