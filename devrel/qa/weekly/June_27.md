@@ -15,10 +15,42 @@
 
 **See report template for the blog status format.**
 
+### Introduction to HTML
+
+* AUTHOR: @eden-bouskila
+* REVIEWER/QA: @atuljayaram
+* IMC: Web Dev
+* CURRENT STATUS: Finished. Fully QA'd and ready for transfer to Writing team.
+* ISSUES/CONCERNS/OBSTACLES: Nothing major. The developer did not submit a MD file at first, instead they submitted a PDF. Need to make it clear to all devs that all blogs MUST be submitted as MD files.
+* GITHUB ISSUE #: #127
+* GITHUB PR #: #236
+
+### Introduction to CSS
+
+* AUTHOR: @ManasiAbh
+* REVIEWER/QA: @atuljayaram
+* IMC: Web Dev
+* CURRENT STATUS: Finished. Fully QA'd and ready for transfer to Writing team.
+* ISSUES/CONCERNS/OBSTACLES: Nothing major. The developer did not submit a MD file at first, instead they submitted a PDF. Need to make it clear to all devs that all blogs MUST be submitted as MD files.
+* GITHUB ISSUE #: #128
+* GITHUB PR #: #239
+
+### From Day to Night - Creating Interactive Color Palettes with JavaScript
+
+* AUTHOR: @emily-gui
+* REVIEWER/QA: @atuljayaram
+* IMC: Web Dev
+* CURRENT STATUS: Finished. Fully QA'd and ready for transfer to Writing team.
+* ISSUES/CONCERNS/OBSTACLES: Nothing at all.
+* GITHUB ISSUE #: #131
+* GITHUB PR #: #240
+
 ## Miscellaneous 
 Please enter any miscellaneous info or notes you would like to share. For instance, if you did not review any blogs this week, put that down in the section corresponding to your name.
  
 ### Atul
+
+Nothing for this week.
 
 ### Chris
 
