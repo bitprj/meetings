@@ -42,7 +42,7 @@ Recording Link
   * Ask Umayr how to get our own link to get our practice session
   * 6 PM run through for Microsoft Event
 * Jasmine
-  * 
+  * Created schedule for creating lessons, peer reviews, etc
 * Amanda
   * Finished Bit Quest Activity
   * Drew DNA model activity
