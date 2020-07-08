@@ -7,7 +7,7 @@
 - [ ] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [X] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -32,3 +32,5 @@ No blogs reviewed this week.
 ### Wei
 
 ### Emily
+
+Did not review any blogs, working on IMC webinar.
