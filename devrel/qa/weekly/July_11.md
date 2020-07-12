@@ -7,7 +7,7 @@
 - [ ] Kyle Begovich
 - [x] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [x] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -32,3 +32,5 @@ No blogs to review.
 ### Wei
 
 ### Emily
+
+Did not review any blogs, currently in final stages of IMC.
