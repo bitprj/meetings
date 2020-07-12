@@ -5,7 +5,7 @@
 - [X] Atul Jayaram
 - [ ] Christopher Ton
 - [ ] Kyle Begovich
-- [ ] Alex Doytchinov
+- [x] Alex Doytchinov
 - [ ] Wei
 - [X] Emily Gui
 
@@ -28,6 +28,8 @@ No blogs reviewed this week.
 ### Kyle
 
 ### Alex
+
+No blogs to review.
 
 ### Wei
 
