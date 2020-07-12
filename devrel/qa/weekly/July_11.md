@@ -2,7 +2,7 @@
 
 ## QA's
 
-- [ ] Atul Jayaram
+- [X] Atul Jayaram
 - [ ] Christopher Ton
 - [X] Kyle Begovich
 - [x] Alex Doytchinov
@@ -20,7 +20,7 @@
 Please enter any miscellaneous info or notes you would like to share. For instance, if you did not review any blogs this week, put that down in the section corresponding to your name.
  
 ### Atul
-
+Did not review any blogs. Got a proposal for a new blog and assigned it to Alex.
 ### Chris
 
 ### Kyle
