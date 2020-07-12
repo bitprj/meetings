@@ -5,7 +5,7 @@
 - [ ] Atul Jayaram
 - [ ] Christopher Ton
 - [ ] Kyle Begovich
-- [ ] Alex Doytchinov
+- [x] Alex Doytchinov
 - [ ] Wei
 - [ ] Emily Gui
 
@@ -26,6 +26,8 @@ Please enter any miscellaneous info or notes you would like to share. For instan
 ### Kyle
 
 ### Alex
+
+No blogs to review. 
 
 ### Wei
 
