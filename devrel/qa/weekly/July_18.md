@@ -7,7 +7,7 @@
 - [X] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
-- [ ] Emily Gui
+- [X] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
 
@@ -31,3 +31,4 @@ Did not review any blogs, went through submission instructions with the authors 
 ### Wei
 
 ### Emily
+Reviewed first blog proposal! Working on finalizing slides for IMC in preparation of video recording.
