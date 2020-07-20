@@ -4,7 +4,7 @@
 
 - [X] Atul Jayaram
 - [ ] Christopher Ton
-- [ ] Kyle Begovich
+- [X] Kyle Begovich
 - [ ] Alex Doytchinov
 - [ ] Wei
 - [ ] Emily Gui
@@ -24,6 +24,7 @@ Did not review any blogs. Got proposals for a couple of blogs and assigned one t
 ### Chris
 
 ### Kyle
+Did not review any blogs, went through submission instructions with the authors of the last two blogs in my IMC.
 
 ### Alex
 
