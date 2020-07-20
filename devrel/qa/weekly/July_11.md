@@ -29,7 +29,7 @@ No blogs reviewed this week.
 
 ### Alex
 
-No blogs to review. 
+Assigned a blog with a template proposal and some basic code. Provided a review emphasizing the uniqueness/interactivity of the code, as well as how to narrow the focus of the blog.
 
 ### Wei
 
