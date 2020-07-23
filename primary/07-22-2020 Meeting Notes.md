@@ -35,10 +35,8 @@ Recording Link
 
 ## Updates:
 *What has been completed and can be checked off*
-* Lily
-  * 
-* Jasmine
-  * 
+Lily
+  * Events have 500 registrations!!
 * Monica
   * Bit Quest slides done!
 * Lauren
@@ -47,7 +45,8 @@ Recording Link
 * Winnie
   * Bit Quest slides done!
 * Mary
-  * 
+  * Bit Quest slides done!
+  * Microsoft Event Report done!
 * Amanda
   * Bit Quest slides done!
 
@@ -58,7 +57,7 @@ Recording Link
   * Notetaker: Lily
   * Banterer: Mary
   * Chat Moderator: Everyone
-  * Producers: Lily, Jasmine, Mary, Amanda
+  * Producers: Everyone
   * Researcher: Everyone
   
 ## Action Plan:
