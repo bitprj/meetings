@@ -37,38 +37,37 @@ Recording Link
 ## Updates:
 *What has been completed and can be checked off*
 * Lily
-  * 
-* Jasmine
-  * 
 * Monica
-  * 
+  * Finished Peer Review for Bit Quest!
 * Lauren
-  * 
+  * Finished Bit Quest slides!
+  * Evaluations from CS workshops
 * Winnie
-  * 
+  * Finished Peer Review for Bit Quest!
 * Mary
-  * 
+  * Finished Peer Review for Bit Quest!
 * Amanda
-  * 
+  * Presenting Friday!
 * David
-  * 
+  * Finished Peer Review for Bit Quest!
 
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
-* Microsoft Event: 
-  * Presenter: 
-  * Notetaker: 
-  * Banterer: 
+* Microsoft Event: Lung Model
+  * Presenter: Lily and Amanda
+  * Notetaker: Jasmine
+  * Banterer: Mary
   * Chat Moderator: Everyone
-  * Producers: Everyone
+  * Producers: Mary, Lily, and Amanda
   * Researcher: Everyone
   
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
 * Lily
-  * 
+  * Next week's slides that are due: Cleaning Coins — Mary, Monica, and David (Due: Aug. 4)
 * Jasmine
-  * 
+  * Have slides finalized by Saturday!!!
+  * Starting Bit Box soon! Think about what role you want to play for this project!
 ## Deliverables:
 *Within the next (timeframe)*
 
