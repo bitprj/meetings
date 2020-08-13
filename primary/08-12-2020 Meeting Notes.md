@@ -36,20 +36,18 @@ Recording Link
 ## Updates:
 *What has been completed and can be checked off*
 * Monica
-  * Added to airtable
-  * Worked on slides due Fri
+  * Lesson plan
 * Lauren
-  * None!
+  * Nope!
 * Winnie
-  * Added to airtable
+  * Events added to airtable
 * Mary
-  * Added to airtable
+  * Events added to airtable
 * Amanda
-  * Added to airtable
-  * Work on All Around the World slides
+  * Lesson plan: All Around the World
 * David
-  * Added to airtable
-  * Work on slides due Fri
+  * Lesson plan 
+  * Work on slides due 18th
 
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
@@ -64,13 +62,11 @@ Recording Link
 ## Action Plan:
 *Where to go next, dependencies, all deadlines*
 * Lily
-  * This week's slides due on Friday
-  * All Around the World slides due Aug 18: Amanda, Winnie, David
+  * This weeks slides are due Friday
+  * All Around the world due Aug 18
   * Practice run: Lily, Jasmine, Mary, Winnie
-  * Social: Satuday 12 PM
-* Jasmine
-  * Rough google doc of your lesson plan by Friday night(14th)
-  * Peer review comments (Monday 17th)
+  * Social Saturday 12 PM
+
 ## Deliverables:
 *Within the next (timeframe)*
 
