@@ -4,7 +4,7 @@
 
 - [X] Atul Jayaram
 - [ ] Kyle Begovich
-- [ ] Alex Doytchinov
+- [X] Alex Doytchinov
 - [ ] Emily Gui
 
 **Check off your name after you have finished filling out your part of the report!**
@@ -24,5 +24,5 @@ Did not review any blogs this week.
 ### Kyle
 
 ### Alex
-
+Did not review any blogs this week.
 ### Emily
