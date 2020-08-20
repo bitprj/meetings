@@ -36,8 +36,8 @@ Recording Link
 ## Updates:
 *What has been completed and can be checked off*
 * Jasmine
-  * Peer Reviews fixed Monday
-  * Fix peer reviews by next Wed meeting
+  * Peer Reviews done Monday
+  * Fix peer reviews and put into slides by next Wed meeting
   * Alissa: New curriculum developer! Thunkable project!
 * Monica
   * Working on lesson plan!
