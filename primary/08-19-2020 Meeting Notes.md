@@ -44,7 +44,8 @@ Recording Link
 * Winnie
   * Working on lesson plan!
 * Mary
-  * 
+  * Reach out to Alissa
+  * Worked on Outreach Eduflow (Public Training for curriculum developers)
 * Amanda
   * Working on lesson plan!
 * David
