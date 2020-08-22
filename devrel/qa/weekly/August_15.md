@@ -3,7 +3,7 @@
 ## QA's
 
 - [X] Atul Jayaram
-- [ ] Kyle Begovich
+- [X] Kyle Begovich
 - [X] Alex Doytchinov
 - [X] Emily Gui
 
@@ -22,6 +22,7 @@ Did not review any blogs this week.
 ### Chris
 
 ### Kyle
+Reviewed BitCamp Serverless Curriculum from Beau and Natalie. Reviewed BitUniversity content not looked at before from Shayan, Atul, and Narae.
 
 ### Alex
 Did not review any blogs this week.
